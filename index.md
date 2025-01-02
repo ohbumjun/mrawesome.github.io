@@ -1,7 +1,7 @@
 ---
-title: "Changhwi Park"
+title: "BumJun Oh"
 layout: single
-excerpt: "Introduction of Changhwi Park, a Software Engineer <br><br><br>"
+excerpt: "Introduction of Bum Jun Oh, a Software Engineer <br><br><br>"
 header:
   overlay_image: /assets/images/BackgroundHome.png
 classes: wide
