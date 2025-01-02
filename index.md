@@ -30,11 +30,17 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
   * January 2023 - ing
   * As a Game Engine programmer, I designing and implementing core engine systems such as
   @ Real time Build System (Unreal Hot Reload)
+
   @ MultiProcess System ex) CMake Configure, Generate, Build using other process
+  
   @ Image Compression System (DXT, ASTC, ETC2)
+  
   @ Event System
+  
   @ Realtime Filewatcher System
+  
   @ Audio System using <miniaudio> library
+  
   @ Unity "DontDestroyonLoad" System to own game engine
   @ System Calling functions from a C# project within a C++ project using C# CoreCLR.
   @ C/C++ Runtime Reflection Using Clang Compiler API
