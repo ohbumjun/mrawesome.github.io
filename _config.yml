@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ObjectOrientedLife"
+title                    : "MrAwesome"
 title_separator          : "|"
-subtitle                 : "Game and Computer Graphics"
-name                     : "Changhwi Park"
-description              : "Software Engineer Park Changhwi's Personal Website"
+subtitle                 : "Game & Computer Graphics & System SW"
+name                     : "BumJun Oh"
+description              : "Software Engineer Oh Bumjun's Personal Website"
 url                      : "https://MrAwesome.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "ObjectOrientedLife" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "MrAwesome" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changhwi Park"
+  name             : "Bumjun Oh"
   avatar           : "/assets/images/ParkChanghwi_Profile.jpg"
-  bio              : "I am **Changhwi Park**, a *Software Engineer*, whose field of interest involves *Game* and *Computer Graphics*, and many others."
+  bio              : "I am **Bumjun Oh**, a *Software Engineer*, whose field of interest involves *Game* and *Computer Graphics*, *System SW* and many others."
   location         : "Seoul, South Korea"
-  email            : "smsychjy96@gmail.com"
+  email            : "beomjun0638@hanmail.net"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ObjectOrientedLife"
+      url: "https://github.com/ohbumjun"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/changhwi-park-5bb774210/"
+      url: "https://www.linkedin.com/in/bum-jun-oh-3400711b1/"
     - label: "CV"
       icon: "fa fa-address-card"
       url: "/assets/documents/CV_ChanghwiPark.pdf"
