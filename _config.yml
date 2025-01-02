@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Bumjun Oh"
-  avatar           : "/assets/images/ParkChanghwi_Profile.jpg"
+  avatar           : "/assets/images/BumJunOh.jpg"
   bio              : "I am **Bumjun Oh**, a *Software Engineer*, whose field of interest involves *Game* and *Computer Graphics*, *System SW* and many others."
   location         : "Seoul, South Korea"
   email            : "beomjun0638@hanmail.net"
@@ -118,17 +118,17 @@ author:
       url: "https://www.linkedin.com/in/bum-jun-oh-3400711b1/"
     - label: "CV"
       icon: "fa fa-address-card"
-      url: "/assets/documents/CV_ChanghwiPark.pdf"
+      url: "/assets/documents/CV_BumJunOh.docx"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ObjectOrientedLife"
+      url: "https://github.com/ohbumjun"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/changhwi-park-5bb774210/"
+      url: "https://www.linkedin.com/in/bum-jun-oh-3400711b1/"
 
 # Reading Files
 include:
