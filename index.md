@@ -29,6 +29,7 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 * *Gane Engine Programmer* at Com2us proprietary Game Engine Team
   * January 2023 - ing
   * As a Game Engine programmer, I designing and implementing core engine systems such as
+  * 
   @ Real time Build System (Unreal Hot Reload)
 
   @ MultiProcess System ex) CMake Configure, Generate, Build using other process
