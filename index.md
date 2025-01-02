@@ -24,53 +24,33 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 
 # Career
 
-## **Arm**
-
-* Cambridge, United Kingdom
-* *Graphics Engineer* at MediaSW Team
-  * October 2024 -
-
-## **Nexon Korea**
-* Seongnam-si, Gyeonggi-do, Republic of Korea
-* *Gameplay & Engine Programmer* at MapleStory Programming Team
-  * August 2022 - September 2023
-  * As a gameplay and engine programmer, I engaged in implementation of core gameplay features, both on the client-side and the server-side.
-  * Efficiently dealt with an enormous codebase with 20-years of legacies, using C++, C#, and MSSQL.
+## *Com2us**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+  * As a Game Engine programmer, I designing and implementing core engine systems such as
+  @ Real time Build System (Unreal Hot Reload)
+  @ MultiProcess System ex) CMake Configure, Generate, Build using other process
+  @ Image Compression System (DXT, ASTC, ETC2)
+  @ Event System
+  @ Realtime Filewatcher System
+  @ Audio System using <miniaudio> library
+  @ Unity "DontDestroyonLoad" System to own game engine
+  @ System Calling functions from a C# project within a C++ project using C# CoreCLR.
+  @ C/C++ Runtime Reflection Using Clang Compiler API
+  @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
+  @ Multithread System 
+  ex 1) Multi thread update using JobSystem
+  ex 2) Async Asset Load
+  @ C# to C++ Conversion Tool Using Roslyn C# Compiler API : Reduced at least 2 weeks of development period   of porting Unity Game source code to Own game engine c++ code
+  @ Custom Garbage Collector
+  @ Custom Parser/Serialization Logic with various Format (Json, Yaml, MessagePack, Cmake)
+  @ Object Management System(Object Database, Object Handle)
+  @ Entity Component System(ECS) ex) SparseSet, Archetype
+  @ Prefab System
+  @ Game Asset System
+  @ Stack based C++ 14 Coroutine System
   * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/NexonKorea/).
-
-## **NCSoft**
-* Seongnam-si, Gyeonggi-do, Republic of Korea
-* *Intern Vision AI Programmer* at Human Pose Estimation Team, Vision AI Lab
-  * July 2021 - August 2021
-  * Developed an AR- and AI-based livestreaming system using Unity & Barracuda, OpenPose, and VideoPose3D.
-  * Successfully developed virtual character movement pipeline including inference, handling the result from the neural network, and demonstration with arbitrary characters on the client.
-  * [This post](/professionalprojects/Internship/) depicts the internship project in detail.
-
-
-# Updates
-
-- (10.2024) I have joined Arm at Cambridge as a Graphics Engineer!
-- (03.2024) I am currently working on a fluid simulation.
-  - Check out [the repository](https://github.com/StupaSoft/FluidSimulation)!
-  - Tools used
-    - **C++** for the language
-    - **Vulkan** for the graphics API
-    - **GLSL** for the shading language
-    - **ImGui** for the user interface
-    - **RenderDoc** for the rendering debugger
-    - **Visual Studio** for the IDE
-  - Theoretical backgrounds
-    - **Smoothed-Particle Hydrodynamics (SPH)** for simulating fluid
-    - **Marching Cubes** for rendering smooth surface
-    - **Lighting, Smoothing, and Other Rendering Techniques**
-    - **Compute Shader**
-  - Demo Video
-    {% include video id="1lMU_6Z00JA" provider="youtube" %}
-- (01.2024) [FOV Mapping](/personalprojects/FOVMapping1) has been published on [Unity Asset Store](https://assetstore.unity.com/packages/tools/particles-effects/fog-of-war-field-of-view-269976)!
-  - **FOV Mapping** is an advanced approach to Field of View (FOV) and Fog of War (FOW) systems for Unity. Leveraging the power of the GPU, it stands out as a high-performance solution that offers exceptionally efficient field of view system. It also provides terrain-adaptiveness and rich controllable features.
-  - **FOV Mapping** is getting its popularity, recording **over 100 downloads** on Unity Asset Store!
-  - Demo Video
-    {% include video id="odzodrk1F7k" provider="youtube" %}
 
 
 
@@ -99,12 +79,6 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 * I use C# frequently for a personal game project along with Unity. I have been using C# for a long time; thus I have a deep understanding of its features.
 * C# features well-designed and concise functionality and keywords. I know how to utilize them to boost the software development process fully.  
 * As to a few weaknesses of C#, like performance issues due to garbage collection, I am experienced with optimizing those codes.
-
-<br />
-![PythonLogo](../Images/home/PythonLogo.png "Python"){: width="60"}
-
-* I use Python primarily for prototyping. I enjoy writing codes in Python since I can quickly get hands-on results.
-* I have written codes in Python for a variety of fields; computer vision, spatial statistics, and even games.
 
 ## Game Engine
 ![UnityLogo](../Images/home/UnityLogo.png "Unity"){: width="160"}
