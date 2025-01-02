@@ -42,19 +42,31 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
   @ Audio System using <miniaudio> library
   
   @ Unity "DontDestroyonLoad" System to own game engine
+  
   @ System Calling functions from a C# project within a C++ project using C# CoreCLR.
+  
   @ C/C++ Runtime Reflection Using Clang Compiler API
+  
   @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
+
   @ Multithread System 
   ex 1) Multi thread update using JobSystem
   ex 2) Async Asset Load
+
   @ C# to C++ Conversion Tool Using Roslyn C# Compiler API : Reduced at least 2 weeks of development period   of porting Unity Game source code to Own game engine c++ code
+
   @ Custom Garbage Collector
+
   @ Custom Parser/Serialization Logic with various Format (Json, Yaml, MessagePack, Cmake)
+
   @ Object Management System(Object Database, Object Handle)
+
   @ Entity Component System(ECS) ex) SparseSet, Archetype
+
   @ Prefab System
+
   @ Game Asset System
+
   @ Stack based C++ 14 Coroutine System
   * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/NexonKorea/).
 
@@ -98,6 +110,45 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 * I am capable of managing various Vulkan resources to establish complicated rendering pipelines, eventually building up complicated applications upon them.
 * Compute shader along with Vulkan is my favorite way of boosting parallel computation. Take a look at my [fluid simulation with Vulkan compute shader](https://youtu.be/SPOenCZRLrk)!
 * I am engaging Vulkan to develop a high-performance in-house fluid simulation tool powered by Vulkan, GLSL, and ImGUI.
+
+
+
+# Education
+
+## Chung-Ang University
+
+* Bachelor of Arts in Psychology (2022)
+* Double-Major in Statistical Artificial Intelligence (2022)
+
+Please refer to [this post](/professionalprojects/CollegeProjects) for more details about my college projects.
+
+# Certificates
+
+## *Linux Master**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+## *Net**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+## *Com2us**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+## *Com2us**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+## *Com2us**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+## *Com2us**
+* Seoul, Republic of Korea
+* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
+  * January 2023 - ing
+
 
 ## Theoretical Knowledge
 * **Computer Graphics** - I have implemented and optimized real-time rendering systems for games. Also, I have a strong interest in researching various graphics techniques and realizing them with graphics API, shaders, and a good knowledge of 3D mathematics.
