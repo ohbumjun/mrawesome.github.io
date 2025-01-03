@@ -23,21 +23,19 @@ Our custom game engine is designed to push the boundaries of performance, effici
 ![RealTimeBuild](../../Images/Com2us/hotreload.jpg){: width="200"}
 
 @ Real time Build System using Multi-Process : A feature similar to Unreal Engine’s Hot Reload, which reflects real-time changes made to the client user project without restarting the application
-<br><br>
+<br><br><br><br>
 
 
 ![Image Compression](../../Images/Com2us/ImageCompression.jpg){: width="200"}
 
 @ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original using diverse kinds of image compression skills ex) stb, astc, etc2comp library
-
-
-
+<br><br><br><br>
 
 
 ![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
 
 @ Event System: A mechanism that allows developers to efficiently trigger predefined functions or behaviors in response to specific in-game events or conditions, enabling seamless communication between different systems within the game engine
-
+<br><br><br><br>
 
 
 
@@ -45,15 +43,16 @@ Our custom game engine is designed to push the boundaries of performance, effici
 ![Event System](../../Images/Com2us/FileWatcher.jpeg){: width="200"}
 
 @ Realtime Filewatcher System : A system designed to track real-time changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without requiring a restart.
-
+<br><br><br><br>
 
 
 
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
 
-@ Audio System using library
-
+@ Audio System using Miniaudio Library:
+A lightweight audio system integrated with the miniaudio library, providing efficient and high-quality audio playback across multiple platforms. It supports various audio formats and offers low-latency performance, enhancing the overall game experience.
+<br><br><br><br>
 
 
 
@@ -61,7 +60,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 ![Event System](../../Images/Com2us/DataPersistence.png){: width="200"}
 
 @ Persistent Object System : A feature inspired by Unity’s DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
-
+<br><br><br><br>
 
 
 
@@ -69,22 +68,23 @@ Our custom game engine is designed to push the boundaries of performance, effici
 ![Event System](../../Images/Com2us/CoreCLR.png){: width="200"}
 
 @ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
-
+<br><br><br><br>
 
 
 
 ![Event System](../../Images/Com2us/clang.png){: width="200"}
 
 @ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
-
+<br><br><br><br>
 
 
 
 
 ![Event System](../../Images/Com2us/MemoryPool.png){: width="200"}
 
-@ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
-
+@ Allocator System (Fixed Size, Variant Size, Red-Black Tree Combination):
+A custom memory allocator combining fixed-size and variable-size allocation strategies with a Red-Black Tree structure for efficient memory management. This system reduces memory usage by 1.5 GB, optimizing memory allocation and deallocation processes to enhance performance and minimize fragmentation.
+<br><br><br><br>
 
 
 
@@ -96,7 +96,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 Example 1: Multi-threaded Updates with Job System: Implements a Job System to distribute tasks such as physics calculations, AI updates, or gameplay logic across multiple threads, ensuring efficient parallel execution and reduced frame times.
 
 Example 2: Asynchronous Asset Loading: Utilizes background threads to load assets such as textures, models, and audio files asynchronously, preventing stalls in the main thread and ensuring smooth gameplay experiences.
-
+<br><br><br><br>
 
 
 
@@ -104,7 +104,7 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 ![Event System](../../Images/Com2us/rosyln.png){: width="200"}
 
 @ C# to C++ Conversion Tool Using Roslyn API: A powerful tool that utilizes the Roslyn C# Compiler API to automate the conversion of Unity C# game source code to C++ code for use in your own game engine. This tool significantly accelerates the porting process by automatically translating key gameplay logic, systems, and scripts, reducing the development period by at least 2 weeks compared to manual code migration.
-
+<br><br><br><br>
 
 
 
@@ -112,21 +112,21 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 ![Event System](../../Images/Com2us/GC.png){: width="200"}
 
 @ Custom Garbage Collector with Safe Raw Pointer Handling: A custom garbage collection system developed with its own format, ensuring safe management of raw pointers. This system tracks memory allocations and deallocations in a way that prevents issues commonly associated with raw pointer usage, such as dangling pointers or memory leaks
-
+<br><br><br><br>
 
 
 
 ![Event System](../../Images/Com2us/Parser.png){: width="200"}
 
 @ Custom Parser and Serialization System: A tailored parser and serialization logic designed to handle multiple data formats such as JSON, YAML, MessagePack, and CMake. This system provides efficient and flexible serialization/deserialization of game data, ensuring compatibility with various external data structures and configuration files
-
+<br><br><br><br>
 
 
 
 ![Event System](../../Images/Com2us/objecthandle.png){: width="200"}
 
 @ Object Management System (Object Database and Object Handle): A robust system designed to manage game objects using an object database and object handles, with a focus on solving reference issues such as dangling pointers.
-
+<br><br><br><br>
 
 
 
@@ -134,37 +134,37 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 
 @ Entity Component System (ECS): A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
 
-
-
-
 Example 1: SparseSet: A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
 
 Example 2: Archetype: A system that organizes entities based on their component composition, allowing for efficient data access and iteration. By grouping entities with the same set of components into archetypes, this system enables cache-friendly access patterns, significantly improving performance for large numbers of entities with similar component types.
-
+<br><br><br><br>
 
 
 
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
 
-@ Prefab System: A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine
-
+@ Prefab System:
+A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine. It allows developers to define templates for complex objects that can be easily duplicated, modified, and reused across different scenes, ensuring consistency and reducing redundancy in object creation.
+<br><br><br><br>
 
 
 
 
 ![Event System](../../Images/Com2us/Prefab.jpg){: width="200"}
 
-@ Game Asset System: A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts.
-
+Game Asset System:
+A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts. It handles asset import, versioning, and dependencies, ensuring efficient loading and unloading of resources during gameplay. The system also supports multiple asset formats, provides tools for batch processing, and optimizes memory usage through asset bundling and compression techniques, enabling smoother performance and faster load times.
+<br><br><br><br>
 
 
 
 
 ![Event System](../../Images/Com2us/coroutine.png){: width="200"}
 
-@ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
-
+@ Stack-based C++14 Coroutine System:
+A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach. By leveraging C++14’s coroutine features, it enables lightweight, non-blocking execution of tasks without the overhead of traditional thread management. This system allows functions to suspend and resume execution seamlessly, using minimal memory, while maintaining the flow of control. It is ideal for handling tasks such as event processing, parallel operations, and I/O-bound tasks, improving overall performance and responsiveness without relying on complex state machines or callback systems.
+<br><br>
 
 
 
