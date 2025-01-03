@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/855f12f0-4b36-4458-b5f3-b365d712a2e4)---
+---
 title: "Com2us Korea"
 excerpt: "As a Proprietary GameEngine Programmer at Com2us Korea"
 order: 2
