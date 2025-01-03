@@ -14,7 +14,7 @@ My professional software engineer career began at Com2us Korea. From January 202
 
 Our custom game engine is designed to push the boundaries of performance, efficiency, and flexibility for complex, large-scale projects. With a focus on optimizing core systems, we’ve integrated a variety of innovative features and tools, enabling rapid development cycles, better resource management, and enhanced player experiences.
 
-![MapleStory](../../Images/Com2us/Com2usIntro.png){: width="400"}
+![Com2us](../../Images/Com2us/Com2usIntro.png){: width="400"}
 
 # Responsibility
 
@@ -28,8 +28,8 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 ![Image Compression](../../Images/Com2us/ImageCompression.jpg){: width="200"}
 
-@ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original using diverse kinds of image compression skills ex) stb, astc, etc2comp library
-<br><br><br><br>
+@ Image Compression System (DXT, ASTC, ETC2):
+A robust image compression system that utilizes various compression techniques such as DXT, ASTC, and ETC2 to significantly reduce the size of textures while maintaining high visual quality. By leveraging specialized libraries like stb, astc, and etc2comp, the system optimizes texture storage and loading times, reducing the image size to as low as 1/8 of its original size.
 
 
 ![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
