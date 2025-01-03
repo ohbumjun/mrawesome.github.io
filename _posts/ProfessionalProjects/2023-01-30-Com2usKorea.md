@@ -60,7 +60,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 
 
-![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
+![Event System](../../Images/Com2us/DataPersistence.png){: width="200"}
 
 @ Persistent Object System : A feature inspired by Unity’s DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
 
