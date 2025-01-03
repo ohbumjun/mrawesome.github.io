@@ -10,7 +10,11 @@ author_profile: true
 
 ![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
 
-I am a C/C++/C# software developer at Com2us with a keen interest in creating high-performance, secure software, and I'm seeking to expand my knowledge of both graphics APIs and network programming. I am currently working as Game Engine Programmer. I got my bachelor's degree at Chung-Ang University, where I majored in psychology and double majored in "Statistics based AI" which includes several classes including both statistics & computer science. I pursued a degree in Information and Communications Engineering to broaden my knowledge and skills in computer network. My main interests are C/C++/C# SW Development.
+I am a C/C++/C# software developer currently working as a Game Engine Programmer at Com2us. My focus is on creating high-performance, secure software, with a strong interest in advancing my expertise in graphics APIs and network programming.
+
+I hold a bachelor's degree from Chung-Ang University, where I majored in Psychology and double majored in Statistics-based AI. This multidisciplinary program encompassed a range of courses in statistics and computer science, equipping me with analytical and technical skills. To further expand my knowledge, I pursued a degree in Information and Communications Engineering, deepening my understanding of computer networks.
+
+My primary interests lie in software development with C/C++/C#, and I am passionate about optimizing systems and tackling complex technical challenges.
 
 
 # Education
@@ -24,51 +28,60 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 
 # Career
 
-## *Com2us**
+## *Com2us*
 * Seoul, Republic of Korea
 * *Gane Engine Programmer* at Com2us proprietary Game Engine Team
   * January 2023 - ing
   * As a Game Engine programmer, I designing and implementing core engine systems such as
-  * 
-  @ Real time Build System (Unreal Hot Reload)
-
-  @ MultiProcess System ex) CMake Configure, Generate, Build using other process
   
-  @ Image Compression System (DXT, ASTC, ETC2)
+  @ Real time Build System using Multi-Process : A feature similar to Unreal Engine's Hot Reload, which reflects real-time changes made to the client user project without restarting the application
   
-  @ Event System
+  @ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original
   
-  @ Realtime Filewatcher System
+  @ Event System: A mechanism that allows developers to efficiently trigger predefined functions or behaviors in response to specific in-game events or conditions, enabling seamless communication between different systems within the game engine
+  
+  @ Realtime Filewatcher System : A system designed to track real-time changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without requiring a restart.
   
   @ Audio System using <miniaudio> library
   
-  @ Unity "DontDestroyonLoad" System to own game engine
+  @ Persistent Object System : A feature inspired by Unity's DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
   
-  @ System Calling functions from a C# project within a C++ project using C# CoreCLR.
+  @ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
   
-  @ C/C++ Runtime Reflection Using Clang Compiler API
+  @ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
   
   @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
 
-  @ Multithread System 
-  ex 1) Multi thread update using JobSystem
-  ex 2) Async Asset Load
+  @ Multithreading System: A robust framework designed to optimize performance and resource utilization in the game engine by leveraging multithreading techniques.
 
-  @ C# to C++ Conversion Tool Using Roslyn C# Compiler API : Reduced at least 2 weeks of development period   of porting Unity Game source code to Own game engine c++ code
+  Example 1: Multi-threaded Updates with Job System:
+  Implements a Job System to distribute tasks such as physics calculations, AI updates, or gameplay logic across multiple threads, ensuring efficient parallel execution and     reduced frame times.
 
-  @ Custom Garbage Collector
+  Example 2: Asynchronous Asset Loading:
+  Utilizes background threads to load assets such as textures, models, and audio files asynchronously, preventing stalls in the main thread and ensuring smooth gameplay         experiences.
 
-  @ Custom Parser/Serialization Logic with various Format (Json, Yaml, MessagePack, Cmake)
+  @ C# to C++ Conversion Tool Using Roslyn API: A powerful tool that utilizes the Roslyn C# Compiler API to automate the conversion of Unity C# game source code to C++ code     for use in your own game engine. This tool significantly accelerates the porting process by automatically translating key gameplay logic, systems, and scripts, reducing the   development period by at least 2 weeks compared to manual code migration.
+  
+  @ Custom Garbage Collector with Safe Raw Pointer Handling: A custom garbage collection system developed with its own format, ensuring safe management of raw pointers. This     system tracks memory allocations and deallocations in a way that prevents issues commonly associated with raw pointer usage, such as dangling pointers or memory leaks
 
-  @ Object Management System(Object Database, Object Handle)
+  @ Custom Parser and Serialization System: A tailored parser and serialization logic designed to handle multiple data formats such as JSON, YAML, MessagePack, and CMake.       This system provides efficient and flexible serialization/deserialization of game data, ensuring compatibility with various external data structures and configuration files
 
-  @ Entity Component System(ECS) ex) SparseSet, Archetype
+  @ Object Management System (Object Database and Object Handle): A robust system designed to manage game objects using an object database and object handles, with a focus on solving reference issues such as dangling pointers.
+  
+  @ Entity Component System (ECS): A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
 
-  @ Prefab System
+    Example 1: SparseSet:
+    A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
 
-  @ Game Asset System
+    Example 2: Archetype:
+    A system that organizes entities based on their component composition, allowing for efficient data access and iteration. By grouping entities with the same set of components into archetypes, this system enables cache-friendly access patterns, significantly improving performance for large numbers of entities with similar component types.
 
-  @ Stack based C++ 14 Coroutine System
+  @ Prefab System: A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine
+
+  @ Game Asset System: A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts.
+
+  @ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
+  
   * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/NexonKorea/).
 
 
