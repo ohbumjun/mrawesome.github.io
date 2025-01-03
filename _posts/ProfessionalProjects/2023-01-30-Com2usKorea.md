@@ -8,7 +8,7 @@ categories:
 
 My professional software engineer career began at Com2us Korea. From January 2023 to now, I worked as a **Proprietary Game Engine Programmer** which was developed by [Com2us Korea](https://com2us.com/). 
 
-![Logo](../../Images/Com2us/GameEngine.png){: width="400"}{: .align-center}
+![Logo](../../Images/Com2us/GameEngine.png) {: width="400"}{: .align-center}
 
 # **Proprietary Game Engine**
 
