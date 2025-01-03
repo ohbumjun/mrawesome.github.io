@@ -60,7 +60,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
 
 @ Persistent Object System : A feature inspired by Unity’s DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
 
@@ -68,14 +68,14 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/CoreCLR.png){: width="200"}
 
 @ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/clang.png){: width="200"}
 
 @ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
 
@@ -83,7 +83,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/MemoryPool.png){: width="200"}
 
 @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
 
@@ -91,7 +91,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/multithread.png){: width="200"}
 
 @ Multithreading System: A robust framework designed to optimize performance and resource utilization in the game engine by leveraging multithreading techniques.
 
@@ -103,7 +103,7 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/rosyln.png){: width="200"}
 
 @ C# to C++ Conversion Tool Using Roslyn API: A powerful tool that utilizes the Roslyn C# Compiler API to automate the conversion of Unity C# game source code to C++ code for use in your own game engine. This tool significantly accelerates the porting process by automatically translating key gameplay logic, systems, and scripts, reducing the development period by at least 2 weeks compared to manual code migration.
 
@@ -111,28 +111,28 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/GC.png){: width="200"}
 
 @ Custom Garbage Collector with Safe Raw Pointer Handling: A custom garbage collection system developed with its own format, ensuring safe management of raw pointers. This system tracks memory allocations and deallocations in a way that prevents issues commonly associated with raw pointer usage, such as dangling pointers or memory leaks
 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/Parser.png){: width="200"}
 
 @ Custom Parser and Serialization System: A tailored parser and serialization logic designed to handle multiple data formats such as JSON, YAML, MessagePack, and CMake. This system provides efficient and flexible serialization/deserialization of game data, ensuring compatibility with various external data structures and configuration files
 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/objecthandle.png){: width="200"}
 
 @ Object Management System (Object Database and Object Handle): A robust system designed to manage game objects using an object database and object handles, with a focus on solving reference issues such as dangling pointers.
 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/ecs.png){: width="200"}
 
 @ Entity Component System (ECS): A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
 
@@ -155,7 +155,7 @@ Example 2: Archetype: A system that organizes entities based on their component 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/Prefab.jpg){: width="200"}
 
 @ Game Asset System: A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts.
 
@@ -163,7 +163,7 @@ Example 2: Archetype: A system that organizes entities based on their component 
 
 
 
-![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+![Event System](../../Images/Com2us/coroutine.png){: width="200"}
 
 @ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
 
