@@ -25,65 +25,19 @@ My primary interests lie in software development with C/C++/C#, and I am passion
 * Double-Major in Statistical Artificial Intelligence (2022)
 
 Please refer to [this post](/professionalprojects/CollegeProjects) for more details about my college projects.
+<br>
 
 # Career
 
 ## *Com2us*
 * Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-  * As a Game Engine programmer, I designing and implementing core engine systems such as
-  
-  @ Real time Build System using Multi-Process : A feature similar to Unreal Engine's Hot Reload, which reflects real-time changes made to the client user project without restarting the application
-  
-  @ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original
-  
-  @ Event System: A mechanism that allows developers to efficiently trigger predefined functions or behaviors in response to specific in-game events or conditions, enabling seamless communication between different systems within the game engine
-  
-  @ Realtime Filewatcher System : A system designed to track real-time changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without requiring a restart.
-  
-  @ Audio System using <miniaudio> library
-  
-  @ Persistent Object System : A feature inspired by Unity's DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
-  
-  @ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
-  
-  @ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
-  
-  @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
+Game Engine Programmer at Com2us Proprietary Game Engine Team
+January 2023 - Present
 
-  @ Multithreading System: A robust framework designed to optimize performance and resource utilization in the game engine by leveraging multithreading techniques.
+As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
 
-  Example 1: Multi-threaded Updates with Job System:
-  Implements a Job System to distribute tasks such as physics calculations, AI updates, or gameplay logic across multiple threads, ensuring efficient parallel execution and     reduced frame times.
-
-  Example 2: Asynchronous Asset Loading:
-  Utilizes background threads to load assets such as textures, models, and audio files asynchronously, preventing stalls in the main thread and ensuring smooth gameplay         experiences.
-
-  @ C# to C++ Conversion Tool Using Roslyn API: A powerful tool that utilizes the Roslyn C# Compiler API to automate the conversion of Unity C# game source code to C++ code     for use in your own game engine. This tool significantly accelerates the porting process by automatically translating key gameplay logic, systems, and scripts, reducing the   development period by at least 2 weeks compared to manual code migration.
-  
-  @ Custom Garbage Collector with Safe Raw Pointer Handling: A custom garbage collection system developed with its own format, ensuring safe management of raw pointers. This     system tracks memory allocations and deallocations in a way that prevents issues commonly associated with raw pointer usage, such as dangling pointers or memory leaks
-
-  @ Custom Parser and Serialization System: A tailored parser and serialization logic designed to handle multiple data formats such as JSON, YAML, MessagePack, and CMake.       This system provides efficient and flexible serialization/deserialization of game data, ensuring compatibility with various external data structures and configuration files
-
-  @ Object Management System (Object Database and Object Handle): A robust system designed to manage game objects using an object database and object handles, with a focus on solving reference issues such as dangling pointers.
-  
-  @ Entity Component System (ECS): A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
-
-    Example 1: SparseSet:
-    A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
-
-    Example 2: Archetype:
-    A system that organizes entities based on their component composition, allowing for efficient data access and iteration. By grouping entities with the same set of components into archetypes, this system enables cache-friendly access patterns, significantly improving performance for large numbers of entities with similar component types.
-
-  @ Prefab System: A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine
-
-  @ Game Asset System: A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts.
-
-  @ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
-  
-  * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/Com2usKorea/).
-
+For more details about my work, feel free to reach out!
+<br>
 
 
 # Projects
@@ -97,6 +51,7 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 * Unity, C#, and several 3D modeling tools.
 * Designed, programmed, and produced art assets.
 * [This category](/personalprojects/) embraces introductions of the project itself and techniques applied.
+<br>
 
 # Skills
 ## Programming Languages    
