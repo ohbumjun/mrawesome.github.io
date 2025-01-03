@@ -1,16 +1,16 @@
 ---
-title: "MapleStory Global"
-excerpt: "As a Gameplay & Engine Programmer at Nexon Korea"
+title: "Com2us Game Engine Team"
+excerpt: "As a Game Engine Programmer at Com2us Korea"
 order: 2
 categories: 
     - ProfessionalProjects
 ---
 
-My professional software engineer career began at Nexon Korea. From August 2022 to September 2023, I worked as a **Gameplay & Engine Programmer** for **Global MapleStory**, which was developed and serviced by [Nexon Korea](https://company.nexon.com/kr/). From now on, let me explain the detailed experiences I had there. I hope this short biography helps everyone understand my professional experience in the game industry in depth.
+My professional software engineer career began at Com2us Korea. From January 2023 to now, I worked as a **Game Engine Programmer**, which was developed and serviced by [Nexon Korea](https://company.nexon.com/kr/). From now on, let me explain the detailed experiences I had there. I hope this short biography helps everyone understand my professional experience in the game industry in depth.
 
 ![Logo](../../Images/2023-12-16-NexonKorea/Logo.png){: width="700"}{: .align-center}
 
-# **MapleStory**
+# **Proprietary Game Engine**
 
 MapleStory is a massively multiplayer online role-playing game (MMORPG) renowned for its vibrant 2D side-scrolling graphics and charming pixel art style. Initially developed by the Wizet and published by Nexon Korea, MapleStory takes players on a whimsical journey through the magical realm of Maple World. Players embark on quests, hunt mobs, and raid boss monsters while exploring diverse landscapes through a distinctive 2D platformer environment. 
 
@@ -18,7 +18,7 @@ The game allows for extensive character customization with various classes, skil
 
 MapleStory is publishing globally in five regions: South Korea (KMS), Japan (JMS), China (CMS), Taiwan (TMS), South East Asia (MSEA), and Global (GMS, mainly targeting Europe and North America). As the primary service region, most content is initially launched through MapleStory Korea. However, due to the preferences and legal issues that differ by country, each service has its own localized boundary where diverse customizations take place.
 
-![MapleStory](../../Images/2023-12-16-NexonKorea/MapleStory.jpg){: width="600"}
+![MapleStory](../../Images/Com2us/GameEngine.png){: width="600"}
 
 # Responsibility
 
