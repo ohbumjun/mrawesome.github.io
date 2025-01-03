@@ -8,7 +8,7 @@ categories:
 
 My professional software engineer career began at Nexon Korea. From August 2022 to September 2023, I worked as a **Gameplay & Engine Programmer** for **Global MapleStory**, which was developed and serviced by [Nexon Korea](https://company.nexon.com/kr/). From now on, let me explain the detailed experiences I had there. I hope this short biography helps everyone understand my professional experience in the game industry in depth.
 
-![Logo](../../Images/Com2us/GameEngine.png){: width="700"}{: .align-center}
+![Logo](../../Images/Com2us/GameEngine.png){: width="400"}{: .align-center}
 
 # **MapleStory**
 
