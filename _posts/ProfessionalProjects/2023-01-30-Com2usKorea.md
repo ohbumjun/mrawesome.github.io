@@ -21,33 +21,43 @@ Our custom game engine is designed to push the boundaries of performance, effici
 ## Role in General
 
 ![RealTimeBuild](../../Images/Com2us/hotreload.jpg){: width="200"}
+
 @ Real time Build System using Multi-Process : A feature similar to Unreal Engine’s Hot Reload, which reflects real-time changes made to the client user project without restarting the application
 
 ![Image Compression](../../Images/Com2us/ImageCompression.jpg){: width="200"}
+
 @ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original using diverse kinds of image compression skills ex) stb, astc, etc2comp library
 
 ![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
+
 @ Event System: A mechanism that allows developers to efficiently trigger predefined functions or behaviors in response to specific in-game events or conditions, enabling seamless communication between different systems within the game engine
 
 ![Event System](../../Images/Com2us/FileWatcher.jpeg){: width="200"}
+
 @ Realtime Filewatcher System : A system designed to track real-time changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without requiring a restart.
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ Audio System using library
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ Persistent Object System : A feature inspired by Unity’s DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
 
 ![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+
 @ Multithreading System: A robust framework designed to optimize performance and resource utilization in the game engine by leveraging multithreading techniques.
 
 Example 1: Multi-threaded Updates with Job System: Implements a Job System to distribute tasks such as physics calculations, AI updates, or gameplay logic across multiple threads, ensuring efficient parallel execution and reduced frame times.
