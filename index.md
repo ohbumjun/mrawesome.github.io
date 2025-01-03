@@ -82,7 +82,7 @@ Please refer to [this post](/professionalprojects/CollegeProjects) for more deta
 
   @ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
   
-  * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/NexonKorea/).
+  * If you want to learn more about my experience, please take a look at [the post](/professionalprojects/Com2usKorea/).
 
 
 
