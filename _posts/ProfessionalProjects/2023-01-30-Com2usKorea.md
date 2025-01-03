@@ -1,40 +1,84 @@
----
-title: "MapleStory Global"
-excerpt: "As a Gameplay & Engine Programmer at Nexon Korea"
+![image](https://github.com/user-attachments/assets/855f12f0-4b36-4458-b5f3-b365d712a2e4)---
+title: "Com2us Korea"
+excerpt: "As a Proprietary GameEngine Programmer at Com2us Korea"
 order: 2
 categories: 
     - ProfessionalProjects
 ---
 
-My professional software engineer career began at Nexon Korea. From August 2022 to September 2023, I worked as a **Gameplay & Engine Programmer** for **Global MapleStory**, which was developed and serviced by [Nexon Korea](https://company.nexon.com/kr/). From now on, let me explain the detailed experiences I had there. I hope this short biography helps everyone understand my professional experience in the game industry in depth.
+My professional software engineer career began at Com2us Korea. From January 2023 to now, I worked as a **Proprietary Game Engine Programmer** which was developed by [Com2us Korea](https://com2us.com/). 
 
 ![Logo](../../Images/Com2us/GameEngine.png){: width="400"}{: .align-center}
 
-# **MapleStory**
+# **Proprietary Game Engine**
 
-MapleStory is a massively multiplayer online role-playing game (MMORPG) renowned for its vibrant 2D side-scrolling graphics and charming pixel art style. Initially developed by the Wizet and published by Nexon Korea, MapleStory takes players on a whimsical journey through the magical realm of Maple World. Players embark on quests, hunt mobs, and raid boss monsters while exploring diverse landscapes through a distinctive 2D platformer environment. 
+Our custom game engine is designed to push the boundaries of performance, efficiency, and flexibility for complex, large-scale projects. With a focus on optimizing core systems, we’ve integrated a variety of innovative features and tools, enabling rapid development cycles, better resource management, and enhanced player experiences.
 
-The game allows for extensive character customization with various classes, skills, and items. With its nostalgic appeal and continuous updates introducing new content, MapleStory has not only maintained a service since its initial release in 2003 but also continuously grown a dedicated player base, currently up to one hundred million players worldwide. 
-
-MapleStory is publishing globally in five regions: South Korea (KMS), Japan (JMS), China (CMS), Taiwan (TMS), South East Asia (MSEA), and Global (GMS, mainly targeting Europe and North America). As the primary service region, most content is initially launched through MapleStory Korea. However, due to the preferences and legal issues that differ by country, each service has its own localized boundary where diverse customizations take place.
-
-![MapleStory](../../Images/2023-12-16-NexonKorea/MapleStory.jpg){: width="600"}
+![MapleStory](../../Images/Com2us/Com2usIntro.png){: width="400"}
 
 # Responsibility
 
 ## Role in General
 
-As a **Gameplay & Engine Programmer** for the live service, I primarily integrated the user client and the servers so that players could have seamless experiences from all aspects of the game. My responsibility was maintaining two remote sides, handling issues from a broad range: stage loading, layer sorting, text encoding, and social features to payment system and user data management.
+![RealTimeBuild](../../Images/Com2us/hotreload.jpg){: width="200"}
+@ Real time Build System using Multi-Process : A feature similar to Unreal Engine’s Hot Reload, which reflects real-time changes made to the client user project without restarting the application
 
-Even an AAA game service cannot persist merely by standing still. All members of the MapleStory division, including me, always fueled the project periodically with new content for users to immerse themselves. The project has accumulated for two decades without undergoing significant restructuring, its code exceeding millions of lines. Obviously, the project surpasses the capacity of a single programmer to comprehend.
+![Image Compression](../../Images/Com2us/ImageCompression.jpg){: width="200"}
+@ Image Compression System (DXT, ASTC, ETC2) : Reduced a image size to 1/8 of original using diverse kinds of image compression skills ex) stb, astc, etc2comp library
 
-Within this circumstance, a programmer will likely be familiar with a small portion of the code base, while outlining call chains for the other modules is unwieldy. To overcome those difficulties, I developed my own strategy for debugging and analyzing chunks of code: **Guess and Verify**. Employing this approach, I searched for *pivot points* within the code, planting breakpoints relying on inference. Once the breakpoints hit, stages between the entry point and those pivot points are traced backward using a call stack. Those pivot points subsequently become another base camp from which the analysis can proceed a few steps further.
+![Event System](../../Images/Com2us/EventSystem.png){: width="200"}
+@ Event System: A mechanism that allows developers to efficiently trigger predefined functions or behaviors in response to specific in-game events or conditions, enabling seamless communication between different systems within the game engine
 
-Sustained workload is one of the characteristics exclusive to massive-scaled live services. Updates are scheduled back to back: a major update once a month and erratic but frequent minor patches. These natures inherent to the project mandate that software engineers pass each milestone in a timely manner. I coped with such a tight timeline by ordering tasks by their priority, often consulting other teammates to share solutions, fostering collaboration, and ensuring a collective effort in meeting deadlines.
+![Event System](../../Images/Com2us/FileWatcher.jpeg){: width="200"}
+@ Realtime Filewatcher System : A system designed to track real-time changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without requiring a restart.
 
-On the pathway to goals, I worked closely with designers, QA engineers, and overseas publishers who played a key role in directing the game to ensure unparalleled joy. As programmers are the primary contributors to the codebase, cooperating with colleagues from other roles on a technical topic was often challenging. Nevertheless, I successfully bridged this gap by aligning myself with their perspective, fluently clarifying technical terms and concepts in a way that resonated with them.
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Audio System using library
 
-My ability as a cooperative team player contributed to streamlining the timeline of the entire MapleStory project. Throughout my career at MapleStory team, I consistently sought to extend the boundaries and make substantial contributions to the project. Whenever I was confident of what I believed would bring great improvement, I actively proposed my opinions to colleagues without any hesitation. Through my dedicated efforts, I played a crucial role in my team's winning the title of **Best Team of the Year**.
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Persistent Object System : A feature inspired by Unity’s DontDestroyOnLoad, designed to ensure specific objects or data persist across scene transitions or game states
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ C++ to C# Interoperability System: A framework enabling seamless invocation of functions from a C# project within a C++ project using the CoreCLR runtime.
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ C/C++ Runtime Reflection System: A system implemented using the Clang Compiler API to bring C#-like runtime reflection capabilities to C/C++. This enables dynamic access to and manipulation of program metadata, such as classes, functions, and properties, at runtime
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Allocator System (Fixed Size, Variant Size, Redblack Tree Combination) : reduced 1.5 GB of memory usage
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Multithreading System: A robust framework designed to optimize performance and resource utilization in the game engine by leveraging multithreading techniques.
+
+Example 1: Multi-threaded Updates with Job System: Implements a Job System to distribute tasks such as physics calculations, AI updates, or gameplay logic across multiple threads, ensuring efficient parallel execution and reduced frame times.
+
+Example 2: Asynchronous Asset Loading: Utilizes background threads to load assets such as textures, models, and audio files asynchronously, preventing stalls in the main thread and ensuring smooth gameplay experiences.
+
+@ C# to C++ Conversion Tool Using Roslyn API: A powerful tool that utilizes the Roslyn C# Compiler API to automate the conversion of Unity C# game source code to C++ code for use in your own game engine. This tool significantly accelerates the porting process by automatically translating key gameplay logic, systems, and scripts, reducing the development period by at least 2 weeks compared to manual code migration.
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Custom Garbage Collector with Safe Raw Pointer Handling: A custom garbage collection system developed with its own format, ensuring safe management of raw pointers. This system tracks memory allocations and deallocations in a way that prevents issues commonly associated with raw pointer usage, such as dangling pointers or memory leaks
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Custom Parser and Serialization System: A tailored parser and serialization logic designed to handle multiple data formats such as JSON, YAML, MessagePack, and CMake. This system provides efficient and flexible serialization/deserialization of game data, ensuring compatibility with various external data structures and configuration files
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Object Management System (Object Database and Object Handle): A robust system designed to manage game objects using an object database and object handles, with a focus on solving reference issues such as dangling pointers.
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Entity Component System (ECS): A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
+
+Example 1: SparseSet: A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
+
+Example 2: Archetype: A system that organizes entities based on their component composition, allowing for efficient data access and iteration. By grouping entities with the same set of components into archetypes, this system enables cache-friendly access patterns, significantly improving performance for large numbers of entities with similar component types.
+
+![Event System](../../Images/Com2us/miniaudio.png){: width="200"}
+@ Prefab System: A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine
+
+@ Game Asset System: A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts.
+
+@ Stack-based C++14 Coroutine System: A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach
+
 
 ## Tech Stacks
 
