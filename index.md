@@ -135,29 +135,24 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 # Skills
 ## Programming Languages    
 ![C++Logo](../Images/home/C++Logo.png "C++"){: width="60"}  
-* C++ is my primary programming language. I am a professional game programmer and use it every day.
+* C++ is my primary programming language. I am a professional game engine programmer and use it every day.
 * I am knowledgeable of modern C++; STL, move semantics, template, and many other recent features. I can apply advanced features to design and construct games and other applications with high performance.
-* C++ is compiled into native code and supports an object-oriented programming paradigm, which makes it the most suitable language for developing real-time applications. I have a deep understanding of the philosophy of C++.
 
 <br />
 ![CSharpLogo](../Images/home/CSharpLogo.png "C#"){: width="60"}  
 
-* I use C# frequently for a personal game project along with Unity. I have been using C# for a long time; thus I have a deep understanding of its features.
-* C# features well-designed and concise functionality and keywords. I know how to utilize them to boost the software development process fully.  
-* As to a few weaknesses of C#, like performance issues due to garbage collection, I am experienced with optimizing those codes.
+* I have worked on projects involving CoreCLR and Roslyn Compiler API to bridge the gap between C# and C++.
+* This experience has provided me with a deep understanding of C#'s compilation process and runtime environment.
 
 ## Compiler API
-![C++Logo](../Images/home/C++Logo.png "Clang"){: width="60"}  
-* C++ is my primary programming language. I am a professional game programmer and use it every day.
-* I am knowledgeable of modern C++; STL, move semantics, template, and many other recent features. I can apply advanced features to design and construct games and other applications with high performance.
-* C++ is compiled into native code and supports an object-oriented programming paradigm, which makes it the most suitable language for developing real-time applications. I have a deep understanding of the philosophy of C++.
+![ClangLogo](../Images/home/ClangLogo.jpg "Clang"){: width="160"}  
+* I have a track record of working with the Clang compiler, particularly in developing custom C/C++ parsing solutions.
+* I've applied this expertise to create a C++ feature that mirrors the runtime reflection capabilities commonly found in languages like C#.
 
 <br />
-![CSharpLogo](../Images/home/CSharpLogo.png "Rosyln"){: width="60"}  
-
-* I use C# frequently for a personal game project along with Unity. I have been using C# for a long time; thus I have a deep understanding of its features.
-* C# features well-designed and concise functionality and keywords. I know how to utilize them to boost the software development process fully.  
-* As to a few weaknesses of C#, like performance issues due to garbage collection, I am experienced with optimizing those codes.
+![RosylnLogo](../Images/home/RosylnLogo.png "Rosyln"){: width="160"}  
+* By leveraging the Roslyn Compiler API, I have created a tool to automate the translation of Unity C# projects into custom C++ engine code.
+* Through this process, I have gained extensive knowledge of C# syntax, including abstract syntax trees and syntax nodes.
 
 ## Game Engine
 ![UnityLogo](../Images/home/UnityLogo.png "Unity"){: width="160"}
@@ -166,22 +161,17 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 * Not only do I use functionality offered by Unity, but in order to enrich my game project, I have also been highly customizing terrain, animation system, shader, and the multiplayer API(Mirror).
 
 ## Graphics API
-![VulkanLogo](../Images/home/VulkanLogo.png "Vulkan"){: width="150"}
+![OpenGLLogo](../Images/home/OpenGLLogo.png "OpenGL"){: width="150"}
 * Vulkan is my way of presenting graphical ideas along with GPU programming.
 * I am capable of managing various Vulkan resources to establish complicated rendering pipelines, eventually building up complicated applications upon them.
 * Compute shader along with Vulkan is my favorite way of boosting parallel computation. Take a look at my [fluid simulation with Vulkan compute shader](https://youtu.be/SPOenCZRLrk)!
 * I am engaging Vulkan to develop a high-performance in-house fluid simulation tool powered by Vulkan, GLSL, and ImGUI.
-
-
-
-# Education
-
-## Chung-Ang University
-
-* Bachelor of Arts in Psychology (2022)
-* Double-Major in Statistical Artificial Intelligence (2022)
-
-Please refer to [this post](/professionalprojects/CollegeProjects) for more details about my college projects.
+<br />
+![DirectX11Logo](../Images/home/OpenGLLogo.png "DirectX11"){: width="150"}
+* Vulkan is my way of presenting graphical ideas along with GPU programming.
+* I am capable of managing various Vulkan resources to establish complicated rendering pipelines, eventually building up complicated applications upon them.
+* Compute shader along with Vulkan is my favorite way of boosting parallel computation. Take a look at my [fluid simulation with Vulkan compute shader](https://youtu.be/SPOenCZRLrk)!
+* I am engaging Vulkan to develop a high-performance in-house fluid simulation tool powered by Vulkan, GLSL, and ImGUI.
 
 # Certificates
 
