@@ -43,11 +43,16 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 ## *Com2us*
 * Seoul, Republic of Korea
 * Game Engine Programmer at Com2us Proprietary Game Engine Team
-* January 2023 - Present
-
-As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
+    * January 2023 - Present
+    * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
 
 For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
+
+* [Dungeon Delivery](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2) Game Content Development
+    * January 2024 - May 2024
+    * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
+
+For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
 <br>
 
 ## *Korea Gap Year*
@@ -62,7 +67,7 @@ Independently developed two full-stack websites from scratch, utilizing HTML, CS
 ## C/C++ Based Projects
 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
-* 3D third-party shooting game project using Unreal5 : [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
+* 3D third-party shooting game project using Unreal5 : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko&pli=1)
  
 ### OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
