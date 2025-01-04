@@ -1,5 +1,5 @@
 ---
-title: "Developer who bring our Imagination to Reality using Data"
+title: "Developer who bring Imagination to Reality using Data"
 layout: single
 excerpt: "BumJun Oh <br><br><br>"
 header:
@@ -19,12 +19,20 @@ I was drawn to coding because of the process of turning imagination into reality
 I am driven by the desire to challenge myself, expand my horizons, and dream bigger. With a vision to work on innovative projects, I aspire to grow and eventually explore opportunities beyond borders, aiming to contribute to the global tech landscape.
 
 ### My Strength
-To achieve my goals and dreams, I put in great effort at Chung-Ang University, where I majored in Psychology and double majored in Statistics-based AI. This multidisciplinary program helped me develop strong analytical and technical skills through courses in statistics and computer science. Later, to build expertise in another field, I pursued a degree in Information and Communications Engineering, further enhancing my knowledge in computer networks.
+To achieve my goals and dreams, I put in great effort at Chung-Ang University, where I majored in Psychology and double majored in Statistics-based AI. This multidisciplinary program helped me develop strong analytical and technical skills through courses in statistics and computer science. 
+
+Later, to build expertise in another field, I pursued a degree in Information and Communications Engineering, further enhancing my knowledge in computer networks.
+
+In addition, I have developed my programming skills through various external activities such as game development academies, web programming courses, and the Purdue University IoT English program.
 
 Although I faced challenges studying in an unfamiliar field, I persevered with determination and passion, viewing it as a crucial step toward achieving my dreams, and overcame it through dedication and hard work.
 
 ### Goal
-My primary interests lie in software development with C/C++/C#, and I am passionate about system optimization and solving complex technical challenges. In the future, I aim to leverage my experience to create software based on C/C++/C#, contributing to areas such as graphic APIs, Window OS technologies, network programming, and my strengths in game engine development. Although my experience includes game engine development, I am eager to work in the broader C/C++/C# software field, not limited to the gaming industry.
+My primary interests lie in software development with C/C++/C#, and I am passionate about system optimization and solving complex technical challenges. 
+
+In the future, I aim to leverage my experience to create software based on C/C++/C#, contributing to areas such as graphic APIs, Window OS technologies, network programming, and my strengths in game engine development. 
+
+Although my experience includes game engine development, I am eager to work in the broader C/C++/C# software field, not limited to the gaming industry.
 <br><br>
 
 # Education
