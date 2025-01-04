@@ -33,7 +33,7 @@ My primary interests lie in software development with C/C++/C#, and I am passion
 In the future, I aim to leverage my experience to create software based on C/C++/C#, contributing to areas such as graphic APIs, Window OS technologies, network programming, and my strengths in game engine development. 
 
 Although my experience includes game engine development, I am eager to work in the broader C/C++/C# software field, not limited to the gaming industry.
-<br><br>
+<br><br><br><br><br>
 
 # Education
 
@@ -60,7 +60,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 ## Sparta Coding Club (2020.03 ~ 2020.05)
 * Web Programming using HTML, CSS, JS, MongoDB, Python
 
-<br>
+<br><br><br><br><br>
 
 # Career
 ## *Com2us*
@@ -70,7 +70,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 
-* [Dungeon Delivery](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2) Game Content Development
+* [Dungeon Delivery](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko) Game Content Development
     * January 2024 - May 2024
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
@@ -81,13 +81,16 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020
     * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
-<br><br><br>
+<br><br><br><br><br>
 
 # Project
 ## C/C++ Based Projects
 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
 * 3D third-party shooting game project using Unreal5 : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko&pli=1)
+    * [Key features]     : 3D Shooting Game Logic using Unreal5
+    * [Responsibilities] : Overall Game Logic
+    * [Achievement]      : I was able to understand the basics of Unreal Engine 5
  
 ### OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
@@ -140,7 +143,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 
 ### Dance Academy Search Web Application (2020.03 ~ 2020.05)
 * A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
-<br><br><br>
+<br><br><br><br><br>
 
 # Skills
 ## Programming Languages    
@@ -174,7 +177,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br />
 ![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="160"}
 * I've deepened my understanding of graphics programming by developing approximately five game projects and renderers using DirectX 11 during my job search. I've had hands-on experience with advanced techniques such as geometry shaders for particle effects and instancing for optimization.
-<br><br><br>
+<br><br><br><br><br>
 
 # Certificates
 
