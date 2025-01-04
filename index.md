@@ -67,7 +67,17 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Seoul, Republic of Korea
 * Game Engine Programmer at Com2us Proprietary Game Engine Team
     * January 2023 - Present
-    * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
+    * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components.
+    * [**Key Achivements**]
+      * Improved and maintained a real-time build system using multi-process, similar to Unreal Engine’s Hot Reload, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
+      * Developed custom parsers and serialization logic for various formats (JSON, YAML, Binary, CMake)
+      * Implemented various game engine features leveraging multithreading, including real-time file watching, multi-threaded updates(JobSystem), and asynchronous data loading.
+      * Maintained and debugged the logic for optimizing image assets for real-time rendering with DXT and ASTC compression. Reduced memory usage by compressing image assets to up to 1/8th of their original size.
+      * Achieved 2.0 GB reduction in memory usage by optimizing memory allocator system using various forms of memory pools ex) Fixed Size, Variant Size + Red Black Tree
+      * Accelerated Unity game code porting by at least 2 weeks through Roslyn-based C# to C++ conversion tool
+      * Improved development efficiency by improving the C/C++ runtime reflection system using Clang Compiler API
+      * Achieved substantial reduction in crashes up to 55% through the implementation of object handle system
+      * Achieved 0.13 second improvement in game loop performance when processing 10,000 entities by optimizing both multithreading Job System and Entity Component System (ECS)
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 
 * [Dungeon Delivery](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko) Game Content Development
@@ -80,7 +90,9 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Seoul, Republic of Korea
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020
-    * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+    * [**Key Achivements**]
+    * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL.
+    * Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
 <br><br><br><br><br>
 
 # Project
