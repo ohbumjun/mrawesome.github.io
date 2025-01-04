@@ -61,10 +61,28 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 
 # Projects
 
-## Indie Game Projects
+## Unreal 3D TPS Project
+* 3D third-party shooting game project using Unreal5
 * Here are some demo reels for the project. Check them out!
-  * [Trailer 1](https://www.youtube.com/watch?v=zgcS1foEgOA)
-  * [Trailer 2](https://www.youtube.com/watch?v=b9b-6MzOAi0)
+  * [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
+ 
+## OpenGL based 3D Renderer
+* 3D Renderer Project using OpenGL Graphics API & C/C++
+  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
+
+## Cross Platform 3D Game Engine
+* Personal Game Engine Project in which involves various game engine reloated features
+  * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
+    [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
+
+## Computer Network Projects
+* Computer Network Related Projects using TCP/IP, C/C++
+* 1) Linux based HTTP Server
+  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
+* 2) Linux based HTTP Server
+  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
+* 3) Linux based HTTP Server
+  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
 
 * A top-view strategy game set in Korean war.
 * Unity, C#, and several 3D modeling tools.
