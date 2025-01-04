@@ -170,6 +170,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
   * [**Key features**]
     * Special Candy Combination Logic
   * [**Achievement**]
+    * Had a chance to apply diverse forms of Memory Pool Allocation (Stack, Fixed Size, Variant Size)
     * Knowledge on 2D Shader Effects ex) Gray Color, Shapia Effects
     * Experience of applying Two Pointer Algorithm when matching candies
 
