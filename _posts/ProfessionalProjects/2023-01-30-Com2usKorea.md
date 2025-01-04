@@ -137,11 +137,8 @@ Example 2: Asynchronous Asset Loading: Utilizes background threads to load asset
 
 @ **Entity Component System (ECS)**: A highly efficient architecture for managing game entities and their components, designed to optimize performance and scalability.
 
-Example 1: **SparseSet**: A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
-
-Example 2: **Archetyp**e: A system that organizes entities based on their component composition, allowing for efficient data access and iteration. By grouping entities with the same set of components into archetypes, this system enables cache-friendly access patterns, significantly improving performance for large numbers of entities with similar component types.
+**SparseSet**: A memory-efficient data structure used to store and access entity-component associations. It minimizes memory overhead by providing fast lookups and handling sparse entity-component mappings without excessive memory usage, especially in large-scale games.
 <br><br><br><br>
-
 
 
 
@@ -167,7 +164,7 @@ A comprehensive system for managing, organizing, and optimizing game assets such
 
 @ **Stack-based C++14 Coroutine System**:
 A coroutine system implemented in C++14, designed to efficiently manage asynchronous operations using a stack-based approach. By leveraging C++14’s coroutine features, it enables lightweight, non-blocking execution of tasks without the overhead of traditional thread management. This system allows functions to suspend and resume execution seamlessly, using minimal memory, while maintaining the flow of control. It is ideal for handling tasks such as event processing, parallel operations, and I/O-bound tasks, improving overall performance and responsiveness without relying on complex state machines or callback systems.
-<br><br>
+<br><br><br><br>
 
 
 
