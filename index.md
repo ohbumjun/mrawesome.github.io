@@ -223,50 +223,50 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 
 # Skills
 ## Programming Languages    
-![C++Logo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="60"}  
+![C++Logo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="80"}  
 * C++ is my primary programming language. I am a professional game engine programmer and use it every day.
 * I am knowledgeable of modern C++; STL, move semantics, template, and many other recent features. I can apply advanced features to design and construct games and other applications with high performance.
 
 <br />
-![CSharpLogo](/mrawesome.github.io/Images/home/CSharpLogo.png "C#"){: width="60"}  
+![CSharpLogo](/mrawesome.github.io/Images/home/CSharpLogo.png "C#"){: width="80"}  
 * I have worked on projects involving CoreCLR and Roslyn Compiler API to bridge the gap between C# and C++.
 * This experience has provided me with a deep understanding of C#'s compilation process and runtime environment.
 
 ## Compiler API
-![ClangLogo](/mrawesome.github.io/Images/home/ClangLogo.jpg "Clang"){: width="160"}  
+![ClangLogo](/mrawesome.github.io/Images/home/ClangLogo.jpg "Clang"){: width="180"}  
 * I have a track record of working with the Clang compiler, particularly in developing custom C/C++ parsing solutions.
 * I've applied this expertise to create a C++ feature that mirrors the runtime reflection capabilities commonly found in languages like C#.
 
 <br />
-![RosylnLogo](/mrawesome.github.io/Images/home/RosylnLogo.png "Rosyln"){: width="160"}  
+![RosylnLogo](/mrawesome.github.io/Images/home/RosylnLogo.png "Rosyln"){: width="180"}  
 * By leveraging the Roslyn Compiler API, I have created a tool to automate the translation of Unity C# projects into custom C++ engine code.
 * Through this process, I have gained extensive knowledge of C# syntax, including abstract syntax trees and syntax nodes.
 
 ## Game Engine
-![UnrealLogo](/mrawesome.github.io/Images/home/unrealLogo.png "Unreal"){: width="80"}
+![UnrealLogo](/mrawesome.github.io/Images/home/unrealLogo.png "Unreal"){: width="180"}
 * I'm independently developing a game using Unreal Engine. My current focus is on building a multiplayer shooting game.
 
 ## Graphics API
-![OpenGLLogo](/mrawesome.github.io/Images/home/openglLogo.png "OpenGL"){: width="160"}
+![OpenGLLogo](/mrawesome.github.io/Images/home/openglLogo.png "OpenGL"){: width="200"}
 * Through the development of a 3D renderer and a cross-platform engine using OpenGL, I've gained a solid foundation in computer graphics. My two-year journey with OpenGL has significantly enhanced my understanding of this graphics API.
 
 <br />
-![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="160"}
+![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="200"}
 * I've deepened my understanding of graphics programming by developing approximately five game projects and renderers using DirectX 11 during my job search. I've had hands-on experience with advanced techniques such as geometry shaders for particle effects and instancing for optimization.
 <br><br><br><br><br>
 
 # Certificates
 
 ## Entry-level Linux certification (리눅스 마스터 2급)
-![LinuxMaster](/mrawesome.github.io/Images/home/LinuxLogo.jpg "Linux"){: width="100"}
+![LinuxMaster](/mrawesome.github.io/Images/home/LinuxLogo.jpg "Linux"){: width="180"}
 * basic Linux certification that demonstrates my understanding of fundamental Linux concepts and commands
   
 ## SQLD Developer (SQLD 개발자)
-![SQLD](/mrawesome.github.io/Images/home/DatabaseLogo.png "SQLD"){: width="120"}
+![SQLD](/mrawesome.github.io/Images/home/DatabaseLogo.png "SQLD"){: width="180"}
 * Assesses the ability to perform basic SQL operations and utilization based on an understanding of data modeling.
   
 ## Network Administrator Level 2 (네트워크 관리사 2급)
-![Network](/mrawesome.github.io/Images/home/ComputerNetworkLogo.jpg "Network"){: width="160"}
+![Network](/mrawesome.github.io/Images/home/ComputerNetworkLogo.jpg "Network"){: width="180"}
 * basic computer network certification that demonstrates understanding of designing, implementing computer networks systems.
   
 ## Engineering Information Processing (정보처리기사)
