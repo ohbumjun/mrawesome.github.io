@@ -25,23 +25,23 @@ My primary interests lie in software development with C/C++/C#, and I am passion
 * Double-Major in **Statistical Artificial Intelligence** (2022)
 <br>
 Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structure/ Algorithm/ Software Engineering/ Numerical Analysis/ Graphic Programming Design(OpenGL)/ Mathematical Statistics / Data Mining/ Industry Academy Cooperative Program : Web Programming (1 semester)
-<br><br>
+<br>
 
 ## Credit Bank System
 * Bachelor of Science in Information and Communication Engineering (2025)
 <br>
 Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
-<br><br>
+<br>
 
-## Assort-Rock Game Acedemy
+## Assort-Rock Game Acedemy (2021.07 ~ 2022.12)
 * Game Client, Engine Programming using C/C++, WinAPI, DirectX11
-<br><br>
+<br>
 
-## Purdue University IOT Summer Program
+## Purdue University IOT Summer Program (2021.07 ~ 2021.08)
 * IOT Course & Team Project : Solar Panel System
-<br><br>
+<br>
 
-## Sparta Coding Club
+## Sparta Coding Club (2020.03 ~ 2020.05)
 * Web Programming using HTML, CSS, JS, MongoDB, Python
 
 <br><br>
@@ -59,36 +59,63 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 <br>
 
 
-# Projects
+# C/C++ Based Projects
 
-## Unreal 3D TPS Project
+## Unreal 3D TPS Project (2024.11 ~ 2024.12)
 * 3D third-party shooting game project using Unreal5
-* Here are some demo reels for the project. Check them out!
   * [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
  
-## OpenGL based 3D Renderer
+## OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++
   * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
 
-## Cross Platform 3D Game Engine
+## Cross Platform 3D Game Engine (2023.01 ~ now)
 * Personal Game Engine Project in which involves various game engine reloated features
   * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
-    [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
+  * [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
 
-## Computer Network Projects
+## Computer Network Projects (2024.01 ~ 2024.06)
 * Computer Network Related Projects using TCP/IP, C/C++
 * 1) Linux based HTTP Server
-  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
-* 2) Linux based HTTP Server
-  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
-* 3) Linux based HTTP Server
-  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
+  * [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
+* 2) Windows IOCP Chatting Server
+  * [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
+* 3) Windows BroadCasting Server
+  * [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
 
-* A top-view strategy game set in Korean war.
-* Unity, C#, and several 3D modeling tools.
-* Designed, programmed, and produced art assets.
-* [This category](/personalprojects/) embraces introductions of the project itself and techniques applied.
-<br>
+## Entity Component System Game (2022.12)
+* Simple Console Game which applied Entity Component System (SparseSet, Archetype)
+  * [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
+
+## Pathfinding Algorithm Performance Comparison Project (2022.11):
+*  This project compared the performance of A* and Jump Point Search (JPS) algorithms in various pathfinding scenarios.
+  * [Project](https://www.youtube.com/watch?v=rR5Gbwc1uPU&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=2)
+
+## DirectX11 Based Water Rendering Project (2022.09 ~ 2022.11)
+* This project implemented realistic water rendering using DirectX 11, incorporating HDR, post-processing, translucent rendering, and deferred shading techniques.
+  * [Project](https://www.youtube.com/watch?v=mUK4gTW4Jnc&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=5)
+
+## DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
+* As a member of a team developing a 3D Death Door game clone using DirectX11, I was responsible for integrating the FMOD audio system, implementing behavior trees for AI, utilizing thread pools for parallel processing, creating in-game editing tools, and developing particle effects
+  * [Project-GamePlay](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2)
+  * [Project-Editor](https://www.youtube.com/watch?v=RIhH6ODny4k&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=1)
+
+## DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
+* Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects.
+  * [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
+
+## DirectX11 Based 2D Kirby (2022.01 ~ 2022.05)
+* Developed a DirectX 11-based 2D Kirby game, employing the State Pattern for character and enemy state management, thread synchronization for efficient scene loading, a component-based architecture, and diverse monster and level designs.
+  * [Project](https://www.youtube.com/watch?v=N7_yphwKmOk&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=4)
+
+## WinAPI Based 2D 3Match Puzzle Project (2021.11 ~ 2021.12)
+* Developed a 2D match-3 puzzle game using WinAPI, implementing a match logic system using depth-first search
+  * [Project](https://www.youtube.com/watch?v=8HMGSd-nBxk&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL)
+
+## WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
+* Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI.
+  * [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+  
 
 # Skills
 ## Programming Languages    
