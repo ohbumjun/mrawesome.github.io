@@ -152,19 +152,19 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 # Certificates
 
 ## Entry-level Linux certification (리눅스 마스터 2급)
-![LinuxMaster](/mrawesome.github.io/Images/home/oLinuxLogo.jpg "Linux"){: width="100"}
+![LinuxMaster](/mrawesome.github.io/Images/home/LinuxLogo.jpg "Linux"){: width="100"}
 * basic Linux certification that demonstrates my understanding of fundamental Linux concepts and commands
   
 ## SQLD Developer (SQLD 개발자)
-![SQLD](/mrawesome.github.io/Images/home/DatabaseLogo.png "SQLD"){: width="80"}
+![SQLD](/mrawesome.github.io/Images/home/DatabaseLogo.png "SQLD"){: width="120"}
 * Assesses the ability to perform basic SQL operations and utilization based on an understanding of data modeling.
   
 ## Network Administrator Level 2 (네트워크 관리사 2급)
-![Network](/mrawesome.github.io/Images/home/ComputerNetworkLogo.jpg "Network"){: width="80"}
+![Network](/mrawesome.github.io/Images/home/ComputerNetworkLogo.jpg "Network"){: width="160"}
 * basic computer network certification that demonstrates understanding of designing, implementing computer networks systems.
   
 ## Engineering Information Processing (정보처리기사)
-![InformationProcess](/mrawesome.github.io/Images/home/InformationProcessingLogo.jpg "InformationProcess"){: width="100"}
+![InformationProcess](/mrawesome.github.io/Images/home/InformationProcessingLogo.jpg "InformationProcess"){: width="180"}
 * A qualification demonstrating proficiency in carrying out comprehensive software development projects, encompassing requirements gathering, design, coding, testing, and post-deployment support.
   
 ## CLA (C)
@@ -172,6 +172,6 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 * certification programs on C Language skills offered by The C++ Institute, a leading global authority in C and C++ certifications
     
 ## CPA(C++)
-![OpenGLLogo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="100"}
+![OpenGLLogo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="80"}
 * certification programs on C++ Language skills offered by The C++ Institute, a leading global authority in C and C++ certifications
 
