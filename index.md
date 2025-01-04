@@ -56,25 +56,25 @@ January 2023 - Present
 As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
 
 For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
-<br>
+<br><br><br>
 
+# Project
+## C/C++ Based Projects
 
-# C/C++ Based Projects
-
-## Unreal 3D TPS Project (2024.11 ~ 2024.12)
+### Unreal 3D TPS Project (2024.11 ~ 2024.12)
 * 3D third-party shooting game project using Unreal5
   * [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
  
-## OpenGL based 3D Renderer (2024.06 ~ now)
+### OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++
   * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
 
-## Cross Platform 3D Game Engine (2023.01 ~ now)
+### Cross Platform 3D Game Engine (2023.01 ~ now)
 * Personal Game Engine Project in which involves various game engine reloated features
   * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
   * [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
 
-## Computer Network Projects (2024.01 ~ 2024.06)
+### Computer Network Projects (2024.01 ~ 2024.06)
 * Computer Network Related Projects using TCP/IP, C/C++
 * 1) Linux based HTTP Server
   * [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
@@ -83,39 +83,54 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 * 3) Windows BroadCasting Server
   * [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
 
-## Entity Component System Game (2022.12)
+### Entity Component System Game (2022.12)
 * Simple Console Game which applied Entity Component System (SparseSet, Archetype)
   * [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
 
-## Pathfinding Algorithm Performance Comparison Project (2022.11):
+### Pathfinding Algorithm Performance Comparison Project (2022.11):
 *  This project compared the performance of A* and Jump Point Search (JPS) algorithms in various pathfinding scenarios.
   * [Project](https://www.youtube.com/watch?v=rR5Gbwc1uPU&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=2)
 
-## DirectX11 Based Water Rendering Project (2022.09 ~ 2022.11)
+### DirectX11 Based Water Rendering Project (2022.09 ~ 2022.11)
 * This project implemented realistic water rendering using DirectX 11, incorporating HDR, post-processing, translucent rendering, and deferred shading techniques.
   * [Project](https://www.youtube.com/watch?v=mUK4gTW4Jnc&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=5)
 
-## DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
+### DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
 * As a member of a team developing a 3D Death Door game clone using DirectX11, I was responsible for integrating the FMOD audio system, implementing behavior trees for AI, utilizing thread pools for parallel processing, creating in-game editing tools, and developing particle effects
   * [Project-GamePlay](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2)
   * [Project-Editor](https://www.youtube.com/watch?v=RIhH6ODny4k&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=1)
 
-## DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
+### DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
 * Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects.
   * [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
 
-## DirectX11 Based 2D Kirby (2022.01 ~ 2022.05)
+### DirectX11 Based 2D Kirby (2022.01 ~ 2022.05)
 * Developed a DirectX 11-based 2D Kirby game, employing the State Pattern for character and enemy state management, thread synchronization for efficient scene loading, a component-based architecture, and diverse monster and level designs.
   * [Project](https://www.youtube.com/watch?v=N7_yphwKmOk&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=4)
 
-## WinAPI Based 2D 3Match Puzzle Project (2021.11 ~ 2021.12)
+### WinAPI Based 2D 3Match Puzzle Project (2021.11 ~ 2021.12)
 * Developed a 2D match-3 puzzle game using WinAPI, implementing a match logic system using depth-first search
   * [Project](https://www.youtube.com/watch?v=8HMGSd-nBxk&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL)
 
-## WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
+### WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
 * Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI.
   * [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
-  
+<br>
+
+## Web Programming Project
+
+### Remote Solar Panel Managing Application (2021.07 ~ 2021.08)
+* Recognizing the need for real-time monitoring and fault recovery in remote off-grid solar energy systems, this application utilizes IoT technology, AWS, Ubuntu EC2, Node-RED, and MongoDB to provide a platform for remote interaction and maintenance
+  * [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+
+### Dander Match Platform (2020.05 ~ 2020.06)
+* A platform designed for dancers and dance learners, offering features such as profile creation, class listings, and community building. Developed using HTML, CSS, MongoDB, and Node.js
+  * [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+
+### Dance Academy Search Web Application (2020.03 ~ 2020.05)
+* A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location.
+  * [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+<br><br><br>
 
 # Skills
 ## Programming Languages    
@@ -126,6 +141,19 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 
 <br />
 ![CSharpLogo](../Images/home/CSharpLogo.png "C#"){: width="60"}  
+
+* I use C# frequently for a personal game project along with Unity. I have been using C# for a long time; thus I have a deep understanding of its features.
+* C# features well-designed and concise functionality and keywords. I know how to utilize them to boost the software development process fully.  
+* As to a few weaknesses of C#, like performance issues due to garbage collection, I am experienced with optimizing those codes.
+
+## Compiler API
+![C++Logo](../Images/home/C++Logo.png "Clang"){: width="60"}  
+* C++ is my primary programming language. I am a professional game programmer and use it every day.
+* I am knowledgeable of modern C++; STL, move semantics, template, and many other recent features. I can apply advanced features to design and construct games and other applications with high performance.
+* C++ is compiled into native code and supports an object-oriented programming paradigm, which makes it the most suitable language for developing real-time applications. I have a deep understanding of the philosophy of C++.
+
+<br />
+![CSharpLogo](../Images/home/CSharpLogo.png "Rosyln"){: width="60"}  
 
 * I use C# frequently for a personal game project along with Unity. I have been using C# for a long time; thus I have a deep understanding of its features.
 * C# features well-designed and concise functionality and keywords. I know how to utilize them to boost the software development process fully.  
