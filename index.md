@@ -1,7 +1,7 @@
 ---
-title: "BumJun Oh"
+title: "Developer who bring our Imagination to Reality using Data"
 layout: single
-excerpt: "Introduction of Bum Jun Oh, a Software Engineer <br><br><br>"
+excerpt: "BumJun Oh <br><br><br>"
 header:
   overlay_image: /assets/images/Dream_BackGround.jpg
 classes: wide
@@ -9,26 +9,36 @@ author_profile: true
 ---
 
 ![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
+# Introduce
 
-I am a C/C++/C# software developer currently working as a Game Engine Programmer at Com2us. My focus is on creating high-performance, secure software, with a strong interest in advancing my expertise in graphics APIs and network programming.
+Highly motivated and results-oriented Software Engineer with 2+ years of experience in C/C++/C# programming and STL, specializing in game engine architecture and performance optimization.
 
-I hold a bachelor's degree from Chung-Ang University, where I majored in Psychology and double majored in Statistics-based AI. This multidisciplinary program encompassed a range of courses in statistics and computer science, equipping me with analytical and technical skills. To further expand my knowledge, I pursued a degree in Information and Communications Engineering, deepening my understanding of computer networks.
+### Who I Am
+I was drawn to coding because of the process of turning imagination into reality using data and coding technology. This ability to create something from nothing has always fascinated me, and it’s this passion that led me to pursue a career in development. As I’ve gained experience, I’ve developed a particular interest in optimizing application performance and working with low-level technologies.
 
-My primary interests lie in software development with C/C++/C#, and I am passionate about optimizing systems and tackling complex technical challenges.
+I am driven by the desire to challenge myself, expand my horizons, and dream bigger. With a vision to work on innovative projects, I aspire to grow and eventually explore opportunities beyond borders, aiming to contribute to the global tech landscape.
 
+### My Strength
+To achieve my goals and dreams, I put in great effort at Chung-Ang University, where I majored in Psychology and double majored in Statistics-based AI. This multidisciplinary program helped me develop strong analytical and technical skills through courses in statistics and computer science. Later, to build expertise in another field, I pursued a degree in Information and Communications Engineering, further enhancing my knowledge in computer networks.
+
+Although I faced challenges studying in an unfamiliar field, I persevered with determination and passion, viewing it as a crucial step toward achieving my dreams, and overcame it through dedication and hard work.
+
+### Goal
+My primary interests lie in software development with C/C++/C#, and I am passionate about system optimization and solving complex technical challenges. In the future, I aim to leverage my experience to create software based on C/C++/C#, contributing to areas such as graphic APIs, Window OS technologies, network programming, and my strengths in game engine development. Although my experience includes game engine development, I am eager to work in the broader C/C++/C# software field, not limited to the gaming industry.
+<br><br>
 
 # Education
 
 ## Chung-Ang University
 
-* Bachelor of Arts in **Psychology** (2022)
-* Double-Major in **Statistical Artificial Intelligence** (2022)
+* Bachelor of Arts in **Psychology** (2022) 
+* Double-Major in **Statistical Artificial Intelligence** (2022)(GPA : 4 / 4.5)
 <br>
 Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structure/ Algorithm/ Software Engineering/ Numerical Analysis/ Graphic Programming Design(OpenGL)/ Mathematical Statistics / Data Mining/ Industry Academy Cooperative Program : Web Programming (1 semester)
 <br>
 
 ## Credit Bank System
-* Bachelor of Science in Information and Communication Engineering (2025)
+* Bachelor of Science in Information and Communication Engineering (2025)(GPA : 4.29 / 4.5)
 <br>
 Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
 <br>
