@@ -88,16 +88,17 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
 * 3D third-party shooting game project using Unreal5 : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko&pli=1)
-    * [*Key features*]     : 3D Shooting Game Logic using Unreal5
-    * [*Achievement*]      : I was able to understand the basics of Unreal Engine 5
+    * [**Key features**]     : 3D Shooting Game Logic using Unreal5
+    * [**Achievement**]      : I was able to understand the basics of Unreal Engine 5
  
 ### OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
-    * [Key features]
+    * [**Key features**] 
       * [Phong Light Model](https://www.youtube.com/watch?v=KusZP4DP4XQ&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=34)
       * [Object Outlining Using Stencil Buffer](https://www.youtube.com/watch?v=KyQLK6hJZQE&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=29)
       * [PostProcess](https://www.youtube.com/watch?v=Lfnt7X1NtBA&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=25)
       * [Geometry Shader Effects](https://www.youtube.com/watch?v=qVZAi82u4TE&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=12)
+      * [SkyBox & Environment Map](https://www.youtube.com/watch?v=hI_NqJxjpxk&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=17)
       * [Instancing](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9)
       * [Gamma Correction](https://www.youtube.com/watch?v=HuwYvVhI6wg&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=6)
       * [Directional Shadow Map](https://www.youtube.com/watch?v=cTVX8eNV3_8&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=4)
@@ -107,27 +108,31 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Personal Game Engine Project in which involves various game engine reloated features
   * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
   * [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
-  * [Key features]
+  * [**Key features**] 
     * Designed Cross-Platform Architecture ex) OpenGL, DirectX11 / Window OS, Linux OS
+    * [Batching System](https://www.youtube.com/watch?v=REOSbF4DIVk&list=PLkaVDtEaS2na5D2UDlYf_9OYvW7oosUrt): group multiple objects together for efficient rendering, improving performance by reducing draw calls
     * Realtime Build System using MultiProcessor (e.g., Unreal Hot Reload): Implemented a system for building and reloading content in real time using multiple processors, improving development efficiency and reducing downtime during updates.
     * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to 1/8 of the original, optimizing memory usage and performance.
-    * [Event System](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between components.
-    * [Realtime Filewatcher System](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
-    * [Audio System using <miniaudio> library](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
+    * [Event System](https://www.youtube.com/watch?v=21UFt31A5yg&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=41): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between modules.
+    * [Realtime File Detector System](https://www.youtube.com/watch?v=p2e29-bETcw&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=57): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
+    * [Audio System using <miniaudio> library](https://www.youtube.com/watch?v=RPbeZ1Sat0c&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=35): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
     * [Allocator System (Fixed Size, Variant Size, Redblack Tree Combination)](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Designed an efficient memory allocator system that combined fixed-size, variable-size allocation, and red-black trees, leading to a reduction of 1.5 GB of memory usage.
     * Multithread System:
-      * Multi-thread update using [JobSystem](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Implemented a job system to enable efficient multi-threaded updates, improving performance by parallelizing tasks.
-      * [Async Asset Load](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Created an asynchronous asset loading system to load resources in parallel, reducing load times and enhancing the user experience.
+      * Multi-thread update using [JobSystem](https://www.youtube.com/watch?v=6aDdE1cLt1U&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=51): Implemented a job system to enable efficient multi-threaded updates, improving performance by parallelizing tasks.
+      * [Async Asset Load](https://www.youtube.com/watch?v=Q5zA5OBgELc&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=37): Created an asynchronous asset loading system to load resources in parallel, reducing load times and enhancing the user experience.
     * [Custom Parser/Serialization Logic with various Formats (Json, Yaml, Binary, Cmake)](https://www.youtube.com/watch?v=w5egJeEVrow&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=10): Developed a custom parser and serialization system capable of handling various formats, including JSON, YAML, MessagePack, and CMake, enhancing flexibility and compatibility.
     * [Object Management System (Object Database, Object Handle)](https://www.youtube.com/watch?v=zZ22Vo4jVMA&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=49): Designed an object management system to track and handle object lifecycles and prevent dangling pointers, reducing crashes by at least 50%.
     * [Entity Component System (ECS) (SparseSet, Archetype)](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Implemented an Entity Component System (ECS) architecture to manage entities and components efficiently, improving scalability and performance.
-    * [Stack-based C++14 Coroutine System](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Developed a coroutine system based on the C++14 standard, allowing for efficient and readable asynchronous programming within the game engine.
-  * [Achievement]      : Developed core features supported by modern game engines like Unreal from scratch, enhancing my understanding of low-level operations.
+    * [Stack-based C++14 Coroutine System](https://github.com/ohbumjun/mrawesome.github.io/edit/master/index.md): Developed a coroutine system based on the C++14 standard, allowing for efficient and readable asynchronous programming within the game engine.
+  * [**Achievement**]       : Developed core features supported by modern game engines like Unreal from scratch, enhancing my understanding of low-level operations.
+  
 ### Computer Network Projects (2024.01 ~ 2024.06)
-* Computer Network Related Projects using TCP/IP, C/C++
-* 1) Linux based HTTP Server : [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
-* 2) Windows IOCP Chatting Server : [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
-* 3) Windows BroadCasting Server : [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
+  * Computer Network Related Projects using TCP/IP, C/C++
+    * 1) Linux based HTTP Server : [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
+    * 2) Windows IOCP Chatting Server : [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
+    * 3) Windows BroadCasting Server : [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
+  * [**Key features**]     : Linux Based HTTP Server, Window Based IOCP, BroadCasting Server Feature
+  * [**Achievement**]      : A foundational understanding of TCP/IP network programming principles and concepts.
 
 ### Entity Component System Game (2022.12)
 * Simple Console Game which applied Entity Component System (SparseSet, Archetype) : [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
