@@ -7,7 +7,7 @@ categories:
 ---
 
 <br><br>
-![Com2us](../../Images/Com2us/Com2usIntro.png){: width="400"}
+![Com2us](../../Images/Com2us/Com2usIntro.png){: width="1200"}
 
 My professional software engineer career began at Com2us Korea. From January 2023 to now, I worked as a **Proprietary Game Engine Programmer** which was developed by [Com2us Korea](https://com2us.com/). 
 <br><br>
@@ -23,7 +23,7 @@ Our custom game engine is designed to push the boundaries of performance, effici
 
 ## Role in General
 
-![RealTimeBuild](../../Images/Com2us/hotreload.jpg){: width="1200"}
+![RealTimeBuild](../../Images/Com2us/hotreload.jpg){: width="400"}
 
 @ **Real time Build System using Multi-Process** : A feature similar to Unreal Engine’s Hot Reload, which reflects real-time changes made to the client user project without restarting the application
 <br><br><br><br>
