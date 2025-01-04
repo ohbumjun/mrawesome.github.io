@@ -116,12 +116,15 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@mrawesome-o7p"
+    - label: "PortFolio"
+      icon: "fa fa-address-card"
+      url: "https://www.miricanvas.com/v/143n4eq"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bum-jun-oh-3400711b1/"
     - label: "CV"
       icon: "fa fa-address-card"
-      url: "/mrawesome.github.io/assets/documents/CV_BumJunOh.pdf"
+      url: "https://ohbumjun.github.io/mrawesome.github.io/assets/documents/CV_BumJunOh.pdf"
 
 # Site Footer
 footer:
