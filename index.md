@@ -88,9 +88,8 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
 * 3D third-party shooting game project using Unreal5 : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko&pli=1)
-    * [Key features]     : 3D Shooting Game Logic using Unreal5
-    * [Responsibilities] : Overall Game Logic
-    * [Achievement]      : I was able to understand the basics of Unreal Engine 5
+    * [*Key features*]     : 3D Shooting Game Logic using Unreal5
+    * [*Achievement*]      : I was able to understand the basics of Unreal Engine 5
  
 ### OpenGL based 3D Renderer (2024.06 ~ now)
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
@@ -112,20 +111,17 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Designed Cross-Platform Architecture ex) OpenGL, DirectX11 / Window OS, Linux OS
     * Realtime Build System using MultiProcessor (e.g., Unreal Hot Reload): Implemented a system for building and reloading content in real time using multiple processors, improving development efficiency and reducing downtime during updates.
     * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to 1/8 of the original, optimizing memory usage and performance.
-    * Event System: Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between components.
-    * Realtime Filewatcher System: Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
-    * Audio System using <miniaudio> library: Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
-    * Unity "DontDestroyonLoad" System to own game engine: Developed a similar system to Unity's "DontDestroyOnLoad" to ensure persistence of certain objects between different scenes in my own game engine.
-    * System Calling functions from a C# project within a C++ project using C# CoreCLR: Implemented a bridge between C# and C++ projects by calling C# functions from within a C++ project, leveraging CoreCLR to ensure smooth interoperability.
-    * C/C++ Runtime Reflection Using Clang Compiler API: Utilized the Clang Compiler API to implement runtime reflection in C/C++, enabling dynamic type introspection and reducing boilerplate code.
-    * Allocator System (Fixed Size, Variant Size, Redblack Tree Combination): Designed an efficient memory allocator system that combined fixed-size, variable-size allocation, and red-black trees, leading to a reduction of 1.5 GB of memory usage.
+    * [Event System](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between components.
+    * [Realtime Filewatcher System](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
+    * [Audio System using <miniaudio> library](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
+    * [Allocator System (Fixed Size, Variant Size, Redblack Tree Combination)](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Designed an efficient memory allocator system that combined fixed-size, variable-size allocation, and red-black trees, leading to a reduction of 1.5 GB of memory usage.
     * Multithread System:
-      * Multi-thread update using JobSystem: Implemented a job system to enable efficient multi-threaded updates, improving performance by parallelizing tasks.
-      * Async Asset Load: Created an asynchronous asset loading system to load resources in parallel, reducing load times and enhancing the user experience.
-    * Custom Parser/Serialization Logic with various Formats (Json, Yaml, Binary, Cmake): Developed a custom parser and serialization system capable of handling various formats, including JSON, YAML, MessagePack, and CMake, enhancing flexibility and compatibility.
-    * Object Management System (Object Database, Object Handle): Designed an object management system to track and handle object lifecycles and prevent dangling pointers, reducing crashes by at least 50%.
-    * Entity Component System (ECS) (e.g., SparseSet, Archetype): Implemented an Entity Component System (ECS) architecture to manage entities and components efficiently, improving scalability and performance.
-    * Stack-based C++14 Coroutine System: Developed a coroutine system based on the C++14 standard, allowing for efficient and readable asynchronous programming within the game engine.
+      * Multi-thread update using [JobSystem](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Implemented a job system to enable efficient multi-threaded updates, improving performance by parallelizing tasks.
+      * [Async Asset Load](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Created an asynchronous asset loading system to load resources in parallel, reducing load times and enhancing the user experience.
+    * [Custom Parser/Serialization Logic with various Formats (Json, Yaml, Binary, Cmake)](https://www.youtube.com/watch?v=w5egJeEVrow&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=10): Developed a custom parser and serialization system capable of handling various formats, including JSON, YAML, MessagePack, and CMake, enhancing flexibility and compatibility.
+    * [Object Management System (Object Database, Object Handle)](https://www.youtube.com/watch?v=zZ22Vo4jVMA&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=49): Designed an object management system to track and handle object lifecycles and prevent dangling pointers, reducing crashes by at least 50%.
+    * [Entity Component System (ECS) (SparseSet, Archetype)](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Implemented an Entity Component System (ECS) architecture to manage entities and components efficiently, improving scalability and performance.
+    * [Stack-based C++14 Coroutine System](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Developed a coroutine system based on the C++14 standard, allowing for efficient and readable asynchronous programming within the game engine.
   * [Achievement]      : Developed core features supported by modern game engines like Unreal from scratch, enhancing my understanding of low-level operations.
 ### Computer Network Projects (2024.01 ~ 2024.06)
 * Computer Network Related Projects using TCP/IP, C/C++
