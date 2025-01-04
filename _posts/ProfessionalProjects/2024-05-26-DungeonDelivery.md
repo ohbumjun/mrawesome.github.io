@@ -11,7 +11,7 @@ categories:
 ![Logo](../../Images/Com2us/DD.jpg){: width="300"}{: .align-center}
 
 As a Proprietary Game Engine Programmer at Com2us Korea, I was responsible for developing "Dungeon Delivery," a game successfully launched on both Android and iOS platforms. 
-This involved porting an existing Unity C# project to our company's proprietary C++ game engine : [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
+This involved porting an existing Unity C# project to our company's proprietary C++ game engine : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko)
 
 <br><br>
 
