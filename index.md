@@ -68,7 +68,9 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
 
 ### Cross Platform 3D Game Engine (2023.01 ~ now)
-* Personal Game Engine Project in which involves various game engine reloated features : 1) [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-) 2) [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
+* Personal Game Engine Project in which involves various game engine reloated features
+  * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
+  * [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
 
 ### Computer Network Projects (2024.01 ~ 2024.06)
 * Computer Network Related Projects using TCP/IP, C/C++
@@ -101,7 +103,7 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 
 ### WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
 * Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
-<br>
+<br><br><br>
 
 ## Web Programming Project
 
