@@ -38,7 +38,9 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * IOT Course & Team Project : Solar Panel System
 ## Sparta Coding Club (2020.03 ~ 2020.05)
 * Web Programming using HTML, CSS, JS, MongoDB, Python
+
 <br>
+
 # Career
 ## *Com2us*
 * Seoul, Republic of Korea
