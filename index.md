@@ -111,7 +111,6 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
   * [**Key features**] 
     * Designed Cross-Platform Architecture ex) OpenGL, DirectX11 / Window OS, Linux OS
     * [Batching System](https://www.youtube.com/watch?v=REOSbF4DIVk&list=PLkaVDtEaS2na5D2UDlYf_9OYvW7oosUrt): group multiple objects together for efficient rendering, improving performance by reducing draw calls
-    * Realtime Build System using MultiProcessor (e.g., Unreal Hot Reload): Implemented a system for building and reloading content in real time using multiple processors, improving development efficiency and reducing downtime during updates.
     * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to 1/8 of the original, optimizing memory usage and performance.
     * [Event System](https://www.youtube.com/watch?v=21UFt31A5yg&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=41): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between modules.
     * [Realtime File Detector System](https://www.youtube.com/watch?v=p2e29-bETcw&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=57): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
@@ -122,31 +121,46 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * [Async Asset Load](https://www.youtube.com/watch?v=Q5zA5OBgELc&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=37): Created an asynchronous asset loading system to load resources in parallel, reducing load times and enhancing the user experience.
     * [Custom Parser/Serialization Logic with various Formats (Json, Yaml, Binary, Cmake)](https://www.youtube.com/watch?v=w5egJeEVrow&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=10): Developed a custom parser and serialization system capable of handling various formats, including JSON, YAML, MessagePack, and CMake, enhancing flexibility and compatibility.
     * [Object Management System (Object Database, Object Handle)](https://www.youtube.com/watch?v=zZ22Vo4jVMA&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=49): Designed an object management system to track and handle object lifecycles and prevent dangling pointers, reducing crashes by at least 50%.
-    * [Entity Component System (ECS) (SparseSet, Archetype)](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Implemented an Entity Component System (ECS) architecture to manage entities and components efficiently, improving scalability and performance.
+    * [Entity Component System (ECS) (ENTT Library)](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=1): Implemented an Entity Component System (ECS) architecture to manage entities and components efficiently, improving scalability and performance.
     * [Stack-based C++14 Coroutine System](https://github.com/ohbumjun/mrawesome.github.io/edit/master/index.md): Developed a coroutine system based on the C++14 standard, allowing for efficient and readable asynchronous programming within the game engine.
   * [**Achievement**]       : Developed core features supported by modern game engines like Unreal from scratch, enhancing my understanding of low-level operations.
   
 ### Computer Network Projects (2024.01 ~ 2024.06)
-  * Computer Network Related Projects using TCP/IP, C/C++
-    * 1) Linux based HTTP Server : [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
-    * 2) Windows IOCP Chatting Server : [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
-    * 3) Windows BroadCasting Server : [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
+* Computer Network Related Projects using TCP/IP, C/C++
+  * 1) Linux based HTTP Server : [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
+  * 2) Windows IOCP Chatting Server : [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
+  * 3) Windows BroadCasting Server : [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
   * [**Key features**]     : Linux Based HTTP Server, Window Based IOCP, BroadCasting Server Feature
   * [**Achievement**]      : A foundational understanding of TCP/IP network programming principles and concepts.
 
 ### Entity Component System Game (2022.12)
 * Simple Console Game which applied Entity Component System (SparseSet, Archetype) : [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
-
+  * [**Key features**]     : Archetype, SparseSet structure in Entity Component System (ECS)
+  * [**Achievement**]      : In-depth understanding of ECS principles and architecture.
+    
 ### Pathfinding Algorithm Performance Comparison Project (2022.11):
 *  This project compared the performance of A* and Jump Point Search (JPS) algorithms in various pathfinding scenarios. : [Project](https://www.youtube.com/watch?v=rR5Gbwc1uPU&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=2)
+  * [**Key features**]     : Finding 20 Thieves every turn with Path Finding Algorithm 
+  * [**Achievement**]      : In-depth understanding of A*, 4 direction JPS Algorithm
 
 ### DirectX11 Based Water Rendering Project (2022.09 ~ 2022.11)
 * This project implemented realistic water rendering using DirectX 11, incorporating HDR, post-processing, translucent rendering, and deferred shading techniques : [Project](https://www.youtube.com/watch?v=mUK4gTW4Jnc&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=5)
+  * [**Key features**]     : HDR, Transparent Rendering, Deferred Rendering
+  * [**Achievement**]      : In-depth understanding of PostProcessing Effect using DirectX11
 
 ### DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
 * As a member of a team developing a 3D Death Door game clone using DirectX11, I was responsible for integrating the FMOD audio system, implementing behavior trees for AI, utilizing thread pools for parallel processing, creating in-game editing tools, and developing particle effects
   * [Project-GamePlay](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2)
   * [Project-Editor](https://www.youtube.com/watch?v=RIhH6ODny4k&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=1)
+  * [**Key features**]
+    * 3 Boss Monster Stages + 20 Kinds of Monster Content
+    * 3D Adventure Game using DirectX11 Graphic API
+    * IMGUI Tool System
+  * [**Responsible For**]  
+    * Implement Monster AI using the FSM Behavior Tree pattern, where FSM manages states and the Behavior Tree handles dynamic decision-making for complex behaviors.
+    * Implement a Thread Pool for efficient asset loading and design a second-stage boss monster with multiple phases and advanced AI mechanics
+    * Developed Material Tool, Particle Tool, Animation Tool for IMGUI Tool System
+  * [**Achievement**]      : In-depth understanding of PostProcessing Effect using DirectX11
 
 ### DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
 * Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects. : [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
