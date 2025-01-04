@@ -145,7 +145,7 @@ Example 2: **Archetyp**e: A system that organizes entities based on their compon
 
 
 
-![Prefab System](../../Images/Com2us/miniaudio.png){: width="400"}
+![Prefab System](../../Images/Com2us/Prefab.jpg){: width="400"}
 
 @ **Prefab System**:
 A system designed to manage and instantiate reusable game objects or components, known as prefabs, within the game engine. It allows developers to define templates for complex objects that can be easily duplicated, modified, and reused across different scenes, ensuring consistency and reducing redundancy in object creation.
@@ -154,7 +154,7 @@ A system designed to manage and instantiate reusable game objects or components,
 
 
 
-![Asset System](../../Images/Com2us/Prefab.jpg){: width="400"}
+![Asset System](../../Images/Com2us/GameAsset.png){: width="400"}
 
 @ **Game Asset System**:
 A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts. It handles asset import, versioning, and dependencies, ensuring efficient loading and unloading of resources during gameplay. The system also supports multiple asset formats, provides tools for batch processing, and optimizes memory usage through asset bundling and compression techniques, enabling smoother performance and faster load times.
@@ -176,7 +176,7 @@ A coroutine system implemented in C++14, designed to efficiently manage asynchro
 Here are some of those tech stacks publicly stated on their job descriptions looking for software engineers.
 
 - **C/C++** for the main programming language.
-- **Win32** for underlying API
+- **Window OS**
 - **OpenGL, Vulkan** for graphics API 
 - **C#** for in-house tools
 
