@@ -160,31 +160,64 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Implement Monster AI using the FSM Behavior Tree pattern, where FSM manages states and the Behavior Tree handles dynamic decision-making for complex behaviors.
     * Implement a Thread Pool for efficient asset loading and design a second-stage boss monster with multiple phases and advanced AI mechanics
     * Developed Material Tool, Particle Tool, Animation Tool for IMGUI Tool System
-  * [**Achievement**]      : In-depth understanding of PostProcessing Effect using DirectX11
+  * [**Achievement**]
+    * Knowledge on 3D Computer Graphic ex) 3D Frustum Culling, 3D Post Process Effects, Quaternion
+    * Learned the importance of addressing conflicts with a rational approach rather than emotional responses, ensuring smooth communication and conflict resolution while working as a team.
+    * Recognized the significance of managing emotions and maintaining a positive mindset to overcome challenges and keep the project on track
 
 ### DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
 * Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects. : [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
+  * [**Key features**]
+    * Special Candy Combination Logic
+  * [**Achievement**]
+    * Knowledge on 2D Shader Effects ex) Gray Color, Shapia Effects
+    * Experience of applying Two Pointer Algorithm when matching candies
 
 ### DirectX11 Based 2D Kirby (2022.01 ~ 2022.05)
 * Developed a DirectX 11-based 2D Kirby game, employing the State Pattern for character and enemy state management, thread synchronization for efficient scene loading, a component-based architecture, and diverse monster and level designs.: [Project](https://www.youtube.com/watch?v=N7_yphwKmOk&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=4)
+  * [**Key features**]
+    * 5 Boss Monster Stages + 15 Kinds of Monster Content
+    * 2D Adventure Game using DirectX11 Graphic API
+    * IMGUI Tool System
+  * [**Achievement**]
+    * Knowledge on 2D Computer Graphic using DirectX11 ex) 3D Frustum Culling, 3D Post Process Effects, Quaternion
+    * Experience in component-based design
+    * Learnied various thread synchronization techniques such as mutexes and timers
+    * Developed a wide range of game content.
 
 ### WinAPI Based 2D 3Match Puzzle Project (2021.11 ~ 2021.12)
 * Developed a 2D match-3 puzzle game using WinAPI, implementing a match logic system using depth-first search : [Project](https://www.youtube.com/watch?v=8HMGSd-nBxk&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL)
+  * [**Achievement**]
+    * Able to solidify my experience in game development based on the Win API
 
 ### WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
 * Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+  * [**Achievement**]
+    * Gained my first complete experience in 2D game development
+    * Acquired skills in game development based on the WinAPI.
+
 <br><br><br>
+
+
 
 ## Web Programming Project
 
 ### Remote Solar Panel Managing Application (2021.07 ~ 2021.08)
 * Recognizing the need for real-time monitoring and fault recovery in remote off-grid solar energy systems, this application utilizes IoT technology, AWS, Ubuntu EC2, Node-RED, and MongoDB to provide a platform for remote interaction and maintenance : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+  * [**Achievement**]
+    * Gained my first experience in developing an IoT program.
+    * Become more familiar with backend development using Python and AWS.
 
-### Dander Match Platform (2020.05 ~ 2020.06)
+### Dander Match Platform (2020.05 ~ 2020.06)(Team Project : 2 pp)
 * A platform designed for dancers and dance learners, offering features such as profile creation, class listings, and community building. Developed using HTML, CSS, MongoDB, and Node.js : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+  * [**Achievement**]
+    * Through a two-person team project, I gained my first experience in team collaboration
+    * Developed a wider range of web pages using JavaScript, HTML, and CSS.
 
 ### Dance Academy Search Web Application (2020.03 ~ 2020.05)
 * A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+  * [**Achievement**]
+    * As a first experience in web development, where I gained overall skills in technologies required for web development, including HTML, CSS, JS, and MongoDB
 <br><br><br><br><br>
 
 # Skills
