@@ -21,25 +21,30 @@ My primary interests lie in software development with C/C++/C#, and I am passion
 
 ## Chung-Ang University
 
-* Bachelor of Arts in Psychology (2022)
-* Double-Major in Statistical Artificial Intelligence (2022)
+* Bachelor of Arts in **Psychology** (2022)
+* Double-Major in **Statistical Artificial Intelligence** (2022)
+<br>
 Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structure/ Algorithm/ Software Engineering/ Numerical Analysis/ Graphic Programming Design(OpenGL)/ Mathematical Statistics / Data Mining/ Industry Academy Cooperative Program : Web Programming (1 semester)
+<br><br>
 
 ## Credit Bank System
 * Bachelor of Science in Information and Communication Engineering (2025)
+<br>
 Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
+<br><br>
 
 ## Assort-Rock Game Acedemy
+* Game Client, Engine Programming using C/C++, WinAPI, DirectX11
+<br><br>
 
-* Bachelor of Arts in Psychology (2022)
-* Double-Major in Statistical Artificial Intelligence (2022)
+## Purdue University IOT Summer Program
+* IOT Course & Team Project : Solar Panel System
+<br><br>
 
-## Chung-Ang University
+## Sparta Coding Club
+* Web Programming using HTML, CSS, JS, MongoDB, Python
 
-* Bachelor of Arts in Psychology (2022)
-* Double-Major in Statistical Artificial Intelligence (2022)
-
-<br>
+<br><br>
 
 # Career
 
