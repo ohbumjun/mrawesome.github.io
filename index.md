@@ -23,8 +23,22 @@ My primary interests lie in software development with C/C++/C#, and I am passion
 
 * Bachelor of Arts in Psychology (2022)
 * Double-Major in Statistical Artificial Intelligence (2022)
+Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structure/ Algorithm/ Software Engineering/ Numerical Analysis/ Graphic Programming Design(OpenGL)/ Mathematical Statistics / Data Mining/ Industry Academy Cooperative Program : Web Programming (1 semester)
 
-Please refer to [this post](/professionalprojects/CollegeProjects) for more details about my college projects.
+## Credit Bank System
+* Bachelor of Science in Information and Communication Engineering (2025)
+Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
+
+## Assort-Rock Game Acedemy
+
+* Bachelor of Arts in Psychology (2022)
+* Double-Major in Statistical Artificial Intelligence (2022)
+
+## Chung-Ang University
+
+* Bachelor of Arts in Psychology (2022)
+* Double-Major in Statistical Artificial Intelligence (2022)
+
 <br>
 
 # Career
