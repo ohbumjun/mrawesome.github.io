@@ -62,38 +62,28 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 ## C/C++ Based Projects
 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
-* 3D third-party shooting game project using Unreal5
-  * [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
+* 3D third-party shooting game project using Unreal5 : [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
  
 ### OpenGL based 3D Renderer (2024.06 ~ now)
-* 3D Renderer Project using OpenGL Graphics API & C/C++
-  * [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
+* 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
 
 ### Cross Platform 3D Game Engine (2023.01 ~ now)
-* Personal Game Engine Project in which involves various game engine reloated features
-  * [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-)
-  * [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
+* Personal Game Engine Project in which involves various game engine reloated features : 1) [Project-Korean](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nYqfACk9Cx4JgP6nW0kY5o-) 2) [Project-English](https://www.youtube.com/watch?v=hP_rtLT05ko&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H)
 
 ### Computer Network Projects (2024.01 ~ 2024.06)
 * Computer Network Related Projects using TCP/IP, C/C++
-* 1) Linux based HTTP Server
-  * [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
-* 2) Windows IOCP Chatting Server
-  * [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
-* 3) Windows BroadCasting Server
-  * [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
+* 1) Linux based HTTP Server : [Linux HTTP Server](https://www.youtube.com/watch?v=1R7laj6yX4w&list=PLkaVDtEaS2naNsb5GK5XeGd5ESPTW3sWy)
+* 2) Windows IOCP Chatting Server : [Windows IOCP](https://www.youtube.com/watch?v=pDf5rOVv2XM&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA)
+* 3) Windows BroadCasting Server : [Windows BroadCasting](https://www.youtube.com/watch?v=Ez2ljfd8kBI&list=PLkaVDtEaS2nb1pcsVavEhWJzz6fEUPkjA&index=2)
 
 ### Entity Component System Game (2022.12)
-* Simple Console Game which applied Entity Component System (SparseSet, Archetype)
-  * [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
+* Simple Console Game which applied Entity Component System (SparseSet, Archetype) : [Project](https://www.youtube.com/watch?v=I8es8E80Kf0&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=3)
 
 ### Pathfinding Algorithm Performance Comparison Project (2022.11):
-*  This project compared the performance of A* and Jump Point Search (JPS) algorithms in various pathfinding scenarios.
-  * [Project](https://www.youtube.com/watch?v=rR5Gbwc1uPU&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=2)
+*  This project compared the performance of A* and Jump Point Search (JPS) algorithms in various pathfinding scenarios. : [Project](https://www.youtube.com/watch?v=rR5Gbwc1uPU&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=2)
 
 ### DirectX11 Based Water Rendering Project (2022.09 ~ 2022.11)
-* This project implemented realistic water rendering using DirectX 11, incorporating HDR, post-processing, translucent rendering, and deferred shading techniques.
-  * [Project](https://www.youtube.com/watch?v=mUK4gTW4Jnc&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=5)
+* This project implemented realistic water rendering using DirectX 11, incorporating HDR, post-processing, translucent rendering, and deferred shading techniques : [Project](https://www.youtube.com/watch?v=mUK4gTW4Jnc&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=5)
 
 ### DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
 * As a member of a team developing a 3D Death Door game clone using DirectX11, I was responsible for integrating the FMOD audio system, implementing behavior trees for AI, utilizing thread pools for parallel processing, creating in-game editing tools, and developing particle effects
@@ -101,35 +91,28 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
   * [Project-Editor](https://www.youtube.com/watch?v=RIhH6ODny4k&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=1)
 
 ### DirectX11 Based 2D Candy Crush Project (2022.03 ~ 2022.05)
-* Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects.
-  * [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
+* Developed a DirectX 11-based 2D game inspired by Candy Crush, employing 2D shaders, various memory pool implementations, and custom client-side logic for specialized candy effects. : [Project](https://www.youtube.com/watch?v=MBrhQNJLzCo&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=3)
 
 ### DirectX11 Based 2D Kirby (2022.01 ~ 2022.05)
-* Developed a DirectX 11-based 2D Kirby game, employing the State Pattern for character and enemy state management, thread synchronization for efficient scene loading, a component-based architecture, and diverse monster and level designs.
-  * [Project](https://www.youtube.com/watch?v=N7_yphwKmOk&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=4)
+* Developed a DirectX 11-based 2D Kirby game, employing the State Pattern for character and enemy state management, thread synchronization for efficient scene loading, a component-based architecture, and diverse monster and level designs.: [Project](https://www.youtube.com/watch?v=N7_yphwKmOk&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=4)
 
 ### WinAPI Based 2D 3Match Puzzle Project (2021.11 ~ 2021.12)
-* Developed a 2D match-3 puzzle game using WinAPI, implementing a match logic system using depth-first search
-  * [Project](https://www.youtube.com/watch?v=8HMGSd-nBxk&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL)
+* Developed a 2D match-3 puzzle game using WinAPI, implementing a match logic system using depth-first search : [Project](https://www.youtube.com/watch?v=8HMGSd-nBxk&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL)
 
 ### WinAPI Based 2D Relic Hunter Heroes Project (2021.07 ~ 2021.09)
-* Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI.
-  * [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+* Developed a 2D action-shooting game, Relic Hunter Heroes, using WinAPI. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
 <br>
 
 ## Web Programming Project
 
 ### Remote Solar Panel Managing Application (2021.07 ~ 2021.08)
-* Recognizing the need for real-time monitoring and fault recovery in remote off-grid solar energy systems, this application utilizes IoT technology, AWS, Ubuntu EC2, Node-RED, and MongoDB to provide a platform for remote interaction and maintenance
-  * [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+* Recognizing the need for real-time monitoring and fault recovery in remote off-grid solar energy systems, this application utilizes IoT technology, AWS, Ubuntu EC2, Node-RED, and MongoDB to provide a platform for remote interaction and maintenance : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
 
 ### Dander Match Platform (2020.05 ~ 2020.06)
-* A platform designed for dancers and dance learners, offering features such as profile creation, class listings, and community building. Developed using HTML, CSS, MongoDB, and Node.js
-  * [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
+* A platform designed for dancers and dance learners, offering features such as profile creation, class listings, and community building. Developed using HTML, CSS, MongoDB, and Node.js : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
 
 ### Dance Academy Search Web Application (2020.03 ~ 2020.05)
-* A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location.
-  * [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
+* A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
 <br><br><br>
 
 # Skills
@@ -140,7 +123,6 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 
 <br />
 ![CSharpLogo](/mrawesome.github.io/Images/home/CSharpLogo.png "C#"){: width="60"}  
-
 * I have worked on projects involving CoreCLR and Roslyn Compiler API to bridge the gap between C# and C++.
 * This experience has provided me with a deep understanding of C#'s compilation process and runtime environment.
 
@@ -155,51 +137,41 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 * Through this process, I have gained extensive knowledge of C# syntax, including abstract syntax trees and syntax nodes.
 
 ## Game Engine
-![UnityLogo](../Images/home/UnityLogo.png "Unity"){: width="160"}
-* I have been developing my own game with Unity for over three years. 
-* Since the project is aimed at commercial success, I have encountered numerous challenges while developing each disparate part. With deep considerations about how to formulate Unity components, I was able to make a breakthrough.
-* Not only do I use functionality offered by Unity, but in order to enrich my game project, I have also been highly customizing terrain, animation system, shader, and the multiplayer API(Mirror).
+![UnrealLogo](/mrawesome.github.io/Images/home/unrealLogo.png "Unreal"){: width="80"}
+* I'm independently developing a game using Unreal Engine. My current focus is on building a multiplayer shooting game.
 
 ## Graphics API
-![OpenGLLogo](../Images/home/OpenGLLogo.png "OpenGL"){: width="150"}
-* Vulkan is my way of presenting graphical ideas along with GPU programming.
-* I am capable of managing various Vulkan resources to establish complicated rendering pipelines, eventually building up complicated applications upon them.
-* Compute shader along with Vulkan is my favorite way of boosting parallel computation. Take a look at my [fluid simulation with Vulkan compute shader](https://youtu.be/SPOenCZRLrk)!
-* I am engaging Vulkan to develop a high-performance in-house fluid simulation tool powered by Vulkan, GLSL, and ImGUI.
+![OpenGLLogo](/mrawesome.github.io/Images/home/openglLogo.png "OpenGL"){: width="160"}
+* Through the development of a 3D renderer and a cross-platform engine using OpenGL, I've gained a solid foundation in computer graphics. My two-year journey with OpenGL has significantly enhanced my understanding of this graphics API.
+
 <br />
-![DirectX11Logo](../Images/home/OpenGLLogo.png "DirectX11"){: width="150"}
-* Vulkan is my way of presenting graphical ideas along with GPU programming.
-* I am capable of managing various Vulkan resources to establish complicated rendering pipelines, eventually building up complicated applications upon them.
-* Compute shader along with Vulkan is my favorite way of boosting parallel computation. Take a look at my [fluid simulation with Vulkan compute shader](https://youtu.be/SPOenCZRLrk)!
-* I am engaging Vulkan to develop a high-performance in-house fluid simulation tool powered by Vulkan, GLSL, and ImGUI.
+![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="160"}
+* I've deepened my understanding of graphics programming by developing approximately five game projects and renderers using DirectX 11 during my job search. I've had hands-on experience with advanced techniques such as geometry shaders for particle effects and instancing for optimization.
+<br><br><br>
 
 # Certificates
 
-## *Linux Master**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-## *Net**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-## *Com2us**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-## *Com2us**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-## *Com2us**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
-## *Com2us**
-* Seoul, Republic of Korea
-* *Gane Engine Programmer* at Com2us proprietary Game Engine Team
-  * January 2023 - ing
+## Entry-level Linux certification (리눅스 마스터 2급)
+![LinuxMaster](/mrawesome.github.io/Images/home/oLinuxLogo.jpg "Linux"){: width="100"}
+* basic Linux certification that demonstrates my understanding of fundamental Linux concepts and commands
+  
+## SQLD Developer (SQLD 개발자)
+![SQLD](/mrawesome.github.io/Images/home/DatabaseLogo.png "SQLD"){: width="80"}
+* Assesses the ability to perform basic SQL operations and utilization based on an understanding of data modeling.
+  
+## Network Administrator Level 2 (네트워크 관리사 2급)
+![Network](/mrawesome.github.io/Images/home/ComputerNetworkLogo.jpg "Network"){: width="80"}
+* basic computer network certification that demonstrates understanding of designing, implementing computer networks systems.
+  
+## Engineering Information Processing (정보처리기사)
+![InformationProcess](/mrawesome.github.io/Images/home/InformationProcessingLogo.jpg "InformationProcess"){: width="100"}
+* A qualification demonstrating proficiency in carrying out comprehensive software development projects, encompassing requirements gathering, design, coding, testing, and post-deployment support.
+  
+## CLA (C)
+![OpenGLLogo](/mrawesome.github.io/Images/home/CLogo.png "C"){: width="80"}
+* certification programs on C Language skills offered by The C++ Institute, a leading global authority in C and C++ certifications
+    
+## CPA(C++)
+![OpenGLLogo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="100"}
+* certification programs on C++ Language skills offered by The C++ Institute, a leading global authority in C and C++ certifications
 
-
-## Theoretical Knowledge
-* **Computer Graphics** - I have implemented and optimized real-time rendering systems for games. Also, I have a strong interest in researching various graphics techniques and realizing them with graphics API, shaders, and a good knowledge of 3D mathematics.
