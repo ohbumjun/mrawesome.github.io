@@ -42,10 +42,13 @@ Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structu
 <br>
 Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
 <br>
+
 ## Assort-Rock Game Acedemy (2021.07 ~ 2022.12)
 * Game Client, Engine Programming using C/C++, WinAPI, DirectX11
+
 ## Purdue University IOT Summer Program (2021.07 ~ 2021.08)
 * IOT Course & Team Project : Solar Panel System
+
 ## Sparta Coding Club (2020.03 ~ 2020.05)
 * Web Programming using HTML, CSS, JS, MongoDB, Python
 
@@ -57,22 +60,19 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Game Engine Programmer at Com2us Proprietary Game Engine Team
     * January 2023 - Present
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
-
-For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
+    * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 
 * [Dungeon Delivery](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2) Game Content Development
     * January 2024 - May 2024
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
-
-For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
+    * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
 <br>
 
 ## *Korea Gap Year*
 * Seoul, Republic of Korea
 * Web programming internship through a university-industry cooperation program
-* Sep 2020 - Dec 2020
-
-Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+    * Sep 2020 - Dec 2020
+    * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
 <br><br><br>
 
 # Project
