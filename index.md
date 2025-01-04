@@ -84,6 +84,10 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * January 2024 - May 2024
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
+    * [**Key Achivements**]
+      * Developed a C# to C++ conversion tool using the Roslyn API, automating the porting of Unity C# projects to custom game engines, which reduced development time by at least 2 weeks
+      * Maintained and enhanced the network client logic for "Dungeon Delivery," addressing various bugs and improving TCP/IP-based communication to enhance overall game stability and performance.
+      * Maintained secure server-client communication using the OpenSSL library, an open-source cryptographic toolkit, enhancing my understanding of network programming while ensuring the confidentiality and integrity of player data
 <br>
 
 ## *Korea Gap Year*
@@ -91,8 +95,8 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020
     * [**Key Achivements**]
-    * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL.
-    * Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+      * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL.
+      * Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
 <br><br><br><br><br>
 
 # Project
