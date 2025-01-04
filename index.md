@@ -134,23 +134,23 @@ For more details about my work, feel free to reach out! [this post](/mrawesome.g
 
 # Skills
 ## Programming Languages    
-![C++Logo](../Images/home/C++Logo.png "C++"){: width="60"}  
+![C++Logo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="60"}  
 * C++ is my primary programming language. I am a professional game engine programmer and use it every day.
 * I am knowledgeable of modern C++; STL, move semantics, template, and many other recent features. I can apply advanced features to design and construct games and other applications with high performance.
 
 <br />
-![CSharpLogo](../Images/home/CSharpLogo.png "C#"){: width="60"}  
+![CSharpLogo](/mrawesome.github.io/Images/home/CSharpLogo.png "C#"){: width="60"}  
 
 * I have worked on projects involving CoreCLR and Roslyn Compiler API to bridge the gap between C# and C++.
 * This experience has provided me with a deep understanding of C#'s compilation process and runtime environment.
 
 ## Compiler API
-![ClangLogo](../Images/home/ClangLogo.jpg "Clang"){: width="160"}  
+![ClangLogo](/mrawesome.github.io/Images/home/ClangLogo.jpg "Clang"){: width="160"}  
 * I have a track record of working with the Clang compiler, particularly in developing custom C/C++ parsing solutions.
 * I've applied this expertise to create a C++ feature that mirrors the runtime reflection capabilities commonly found in languages like C#.
 
 <br />
-![RosylnLogo](../Images/home/RosylnLogo.png "Rosyln"){: width="160"}  
+![RosylnLogo](/mrawesome.github.io/Images/home/RosylnLogo.png "Rosyln"){: width="160"}  
 * By leveraging the Roslyn Compiler API, I have created a tool to automate the translation of Unity C# projects into custom C++ engine code.
 * Through this process, I have gained extensive knowledge of C# syntax, including abstract syntax trees and syntax nodes.
 
