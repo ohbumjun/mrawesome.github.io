@@ -36,7 +36,7 @@ January 2023 - Present
 
 As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components. I work on features such as real-time build systems, image compression, multithreading, memory management, and asset systems, all aimed at optimizing gameplay and developer workflows. I also develop custom systems for C++/C# interoperability, runtime reflection, and advanced object management, ensuring a seamless experience across complex game projects.
 
-For more details about my work, feel free to reach out! [this post](/professionalprojects/Com2usKorea/)
+For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 <br>
 
 
