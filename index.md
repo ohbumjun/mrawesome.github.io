@@ -117,6 +117,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * 3D Renderer Project using OpenGL Graphics API & C/C++ : [Project](https://www.youtube.com/watch?v=HDCv5JfUCWY&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL)
     * [**Key features**] 
       * [Phong Light Model](https://www.youtube.com/watch?v=KusZP4DP4XQ&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=34)
+      * [Blinn Light Model](https://www.youtube.com/watch?v=W6WDVx9K3fc&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=7)
       * [Object Outlining Using Stencil Buffer](https://www.youtube.com/watch?v=KyQLK6hJZQE&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=29)
       * [PostProcess](https://www.youtube.com/watch?v=Lfnt7X1NtBA&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=25)
       * [Geometry Shader Effects](https://www.youtube.com/watch?v=qVZAi82u4TE&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=12)
@@ -137,7 +138,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to 1/8 of the original, optimizing memory usage and performance.
     * [Event System](https://www.youtube.com/watch?v=21UFt31A5yg&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=41): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between modules.
     * [Realtime File Detector System](https://www.youtube.com/watch?v=p2e29-bETcw&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=57): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
-    * [Audio System using <miniaudio> library](https://www.youtube.com/watch?v=RPbeZ1Sat0c&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=35): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
+    * [Audio System using MiniAudio library](https://www.youtube.com/watch?v=RPbeZ1Sat0c&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=35): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
     * [Allocator System (Fixed Size, Variant Size, Redblack Tree Combination)](https://www.youtube.com/watch?v=9JQ1gVDBG_o&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=9): Designed an efficient memory allocator system that combined fixed-size, variable-size allocation, and red-black trees, leading to a reduction of 1.5 GB of memory usage.
     * Multithread System:
       * Multi-thread update using [JobSystem](https://www.youtube.com/watch?v=6aDdE1cLt1U&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=51): Implemented a job system to enable efficient multi-threaded updates, improving performance by parallelizing tasks.
