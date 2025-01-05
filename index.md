@@ -72,7 +72,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * Improved and maintained a real-time build system using multi-process, similar to Unreal Engine’s Hot Reload, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
       * Greatly Enhanced data handling efficiency by improving custom parsers and optimized serialization logic for various formats (JSON, YAML, Binary, CMake)
       * Implemented various game engine features leveraging multithreading, including real-time file watching, multi-threaded updates(JobSystem), and asynchronous data loading.
-      * Maintained and debugged the logic for optimizing image assets for real-time rendering with DXT and ASTC compression. Reduced memory usage by compressing image assets to up to 1/8th of their original size.
+      *  Reduced memory usage by compressing image assets to up to 1/8th of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with DXT and ASTC compression.
       * Achieved 2.0 GB reduction in memory usage by optimizing memory allocator system using various forms of memory pools ex) Fixed Size, Variant Size + Red Black Tree
       * Accelerated Unity game code porting by at least 2 weeks through Roslyn-based C# to C++ conversion tool
       * Improved development efficiency by improving the C/C++ runtime reflection system using Clang Compiler API
@@ -80,7 +80,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * Streamlined asset management and enhanced workflow efficiency by improving a robust Prefab system with advanced features such as external reference handling and prefab override functionalities, 
       * Achieved 0.13 second improvement in game loop performance when processing 10,000 entities by optimizing both multithreading Job System and Entity Component System (ECS SparseSet)
       * Developed a Prefab system, including complex features like external reference handling and prefab override functionalities.
-      * Enhanced convenience for engine developers and usersDeveloped a real-time file watcher system to track changes to files or assets, ensuring the game engine dynamically updates and reflects modifications without needing a restart
+      * Enhanced convenience for engine developers and users with an improved real-time file watcher system. This enables dynamic updates within the game engine, reflecting file or asset changes without requiring a restart
       * Significantly improved system stability by developing a custom garbage collector that resolved raw pointer dangling issues
       * Fixed critical bugs in a stack-based C++14 coroutine system, greatly enhancing performance in event processing and I/O-bound operations by optimizing concurrency for lightweight, non-blocking task execution with minimal memory usage
       * Improved workflow efficiency by maintaining and enhancing a complex game asset system that leverages UUIDs, GUIDs, and file IDs to enable seamless and efficient use of diverse asset types within the engine
@@ -91,7 +91,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
     * [**Key Achivements**]
-      * Developed a C# to C++ conversion tool using the Roslyn API, automating the porting of Unity C# projects to custom game engines, which reduced development time by at least 2 weeks
+      * Reduced development time by at least 2 weeks by developing a C# to C++ conversion tool using the Roslyn API. This tool automates the porting of Unity C# projects to custom game engines, significantly streamlining the development process.
       * Maintained and enhanced the network client logic for "Dungeon Delivery," addressing various bugs and improving TCP/IP-based communication to enhance overall game stability and performance.
       * Maintained secure server-client communication using the OpenSSL library, an open-source cryptographic toolkit, enhancing my understanding of network programming while ensuring the confidentiality and integrity of player data
 <br>
@@ -101,8 +101,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020
     * [**Key Achivements**]
-      * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL.
-      * Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+      * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
 <br><br><br><br><br>
 
 # Project
@@ -126,7 +125,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * [Gamma Correction](https://www.youtube.com/watch?v=HuwYvVhI6wg&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=6)
       * [Directional Shadow Map](https://www.youtube.com/watch?v=cTVX8eNV3_8&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=4)
       * [Point Shadow Map](https://www.youtube.com/watch?v=faj85WebCIQ&list=PLkaVDtEaS2naCiGEfLup0srmBTRkeFlWL&index=2)
-    * [Achievement]      : gained a deeper understanding of OpenGL 3.3 graphic API and computer graphics
+    * [Achievement]      : Gained a deeper understanding of OpenGL 3.3 graphic API and computer graphics
   
 ### Cross Platform 3D Game Engine (2023.01 ~ now)
 * Personal Game Engine Project in which involves various game engine reloated features
@@ -172,7 +171,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
   * [**Key features**]     : HDR, Transparent Rendering, Deferred Rendering
   * [**Achievement**]      : In-depth understanding of PostProcessing Effect using DirectX11
 
-### DirectX11 Based 3D Death Door Game Project (Team Project)(2022.05 ~ 2022.08)
+### DirectX11 Based 3D Death Door Game Project (Team Project : 3 pp)(2022.05 ~ 2022.08)
 * As a member of a team developing a 3D Death Door game clone using DirectX11, I was responsible for integrating the FMOD audio system, implementing behavior trees for AI, utilizing thread pools for parallel processing, creating in-game editing tools, and developing particle effects
   * [Project-GamePlay](https://www.youtube.com/watch?v=HuM3E0sp8LY&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=2)
   * [Project-Editor](https://www.youtube.com/watch?v=RIhH6ODny4k&list=PLkaVDtEaS2nZDkjHZvYV260yF1UcDTO5O&index=1)
@@ -227,13 +226,13 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 
 ## Web Programming Project
 
-### Remote Solar Panel Managing Application (2021.07 ~ 2021.08)
+### Remote Solar Panel Managing Application (Team Project : 4 pp) (2021.07 ~ 2021.08)
 * Recognizing the need for real-time monitoring and fault recovery in remote off-grid solar energy systems, this application utilizes IoT technology, AWS, Ubuntu EC2, Node-RED, and MongoDB to provide a platform for remote interaction and maintenance : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
   * [**Achievement**]
     * Gained my first experience in developing an IoT program.
     * Become more familiar with backend development using Python and AWS.
 
-### Dander Match Platform (2020.05 ~ 2020.06)(Team Project : 2 pp)
+### Dander Match Platform (Team Project : 2 pp) (2020.05 ~ 2020.06)
 * A platform designed for dancers and dance learners, offering features such as profile creation, class listings, and community building. Developed using HTML, CSS, MongoDB, and Node.js : [Project](https://github.com/ohbumjun/Purdue_2021_IOT_SolarSystem)
   * [**Achievement**]
     * Through a two-person team project, I gained my first experience in team collaboration
