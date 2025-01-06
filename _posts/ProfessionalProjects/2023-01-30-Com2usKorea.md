@@ -154,7 +154,7 @@ A system designed to manage and instantiate reusable game objects or components,
 ![Asset System](../../Images/Com2us/GameAsset.png){: width="400"}
 
 @ **Game Asset System**:
-A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts. It handles asset import, versioning, and dependencies, ensuring efficient loading and unloading of resources during gameplay. The system also supports multiple asset formats, provides tools for batch processing, and optimizes memory usage through asset bundling and compression techniques, enabling smoother performance and faster load times.
+A comprehensive system for managing, organizing, and optimizing game assets such as textures, models, sounds, animations, and scripts. It handles asset import, versioning, and dependencies, ensuring efficient loading and unloading of resources during gameplay. The system also supports multiple asset formats and optimizes memory usage through asset bundling and compression techniques, enabling smoother performance and faster load times.
 <br><br><br><br>
 
 
