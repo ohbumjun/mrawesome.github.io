@@ -30,9 +30,7 @@ Although I faced challenges studying in an unfamiliar field, I persevered with d
 ### Goal
 My primary interests lie in software development with C/C++/C#, and I am passionate about system optimization and solving complex technical challenges. 
 
-In the future, I aim to leverage my experience to create software based on C/C++/C#, contributing to areas such as graphic APIs, Window OS technologies, network programming, and my strengths in game engine development. 
-
-Although my experience includes game engine development, I am eager to work in the broader C/C++/C# software field, not limited to the gaming industry.
+My game engine development experience has honed my skills in C/C++/C#, system optimization, and problem-solving. I am eager to apply these transferable skills to a wider range of software projects, including those involving graphics APIs, Windows OS technologies, and network programming
 <br><br><br><br><br>
 
 # Education
@@ -69,21 +67,20 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * January 2023 - Present
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components.
     * [**Key Achivements**]
-      * Improved and maintained a real-time build system using multi-process, similar to Unreal Engine’s Hot Reload, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
-      * Greatly Enhanced data handling efficiency by improving custom parsers and optimized serialization logic for various formats (JSON, YAML, Binary, CMake)
-      * Implemented various game engine features leveraging multithreading, including real-time file watching, multi-threaded updates(JobSystem), and asynchronous data loading.
-      *  Reduced memory usage by compressing image assets to up to 1/8th of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with DXT and ASTC compression.
-      * Achieved 2.0 GB reduction in memory usage by optimizing memory allocator system using various forms of memory pools ex) Fixed Size, Variant Size + Red Black Tree
-      * Accelerated Unity game code porting by at least 2 weeks through Roslyn-based C# to C++ conversion tool
-      * Improved development efficiency by improving the C/C++ runtime reflection system using Clang Compiler API
-      * Achieved substantial reduction in crashes up to 55% through the implementation of object handle system
-      * Streamlined asset management and enhanced workflow efficiency by improving a robust Prefab system with advanced features such as external reference handling and prefab override functionalities, 
-      * Achieved 0.13 second improvement in game loop performance when processing 10,000 entities by optimizing both multithreading Job System and Entity Component System (ECS SparseSet)
-      * Developed a Prefab system, including complex features like external reference handling and prefab override functionalities.
-      * Enhanced convenience for engine developers and users with an improved real-time file watcher system. This enables dynamic updates within the game engine, reflecting file or asset changes without requiring a restart
-      * Significantly improved system stability by developing a custom garbage collector that resolved raw pointer dangling issues
-      * Fixed critical bugs in a stack-based C++14 coroutine system, greatly enhancing performance in event processing and I/O-bound operations by optimizing concurrency for lightweight, non-blocking task execution with minimal memory usage
-      * Improved workflow efficiency by maintaining and enhancing a complex game asset system that leverages UUIDs, GUIDs, and file IDs to enable seamless and efficient use of diverse asset types within the engine
+      * Improved and maintained a **real-time build system** using **multi-process**, similar to **Unreal Engine’s Hot Reload**, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
+      * Greatly Enhanced data handling efficiency by improving custom **parsers** and optimized **serialization** logic for various formats (JSON, YAML, Binary, CMake)
+      * Implemented various game engine features leveraging **multithreading**, including multi-threaded updates(**JobSystem**), and **asynchronous data loading**.
+      *  Reduced memory usage by **compressing image** assets to up to **1/8th** of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with **DXT and ASTC** compression.
+      * Achieved **2.0 GB** reduction in memory usage by optimizing **memory allocator** system using various forms of **memory pools** ex) Fixed Size, Variant Size + Red Black Tree
+      * Accelerated Unity game code porting by at least **2 weeks** through **Roslyn-based C# to C++ conversion** tool
+      * Improved development efficiency by improving the **C/C++ runtime reflection system** using **Clang** Compiler API
+      * Achieved substantial reduction in crashes up to **55%** through the implementation of **object handle system**
+      * Streamlined asset management and enhanced workflow efficiency by improving a robust **Prefab system** with advanced features such as external reference handling and prefab override functionalities, 
+      * Achieved **0.13 second improvement** in game loop performance when processing **10,000 entities** by optimizing both multithreading Job System and **Entity Component System** (ECS SparseSet)
+      * Enhanced convenience for engine developers and users with an improved **real-time file watcher system**. This enables dynamic updates within the game engine, reflecting file or asset changes without requiring a restart
+      * Significantly improved system stability by developing a **custom garbage collector** that resolved raw pointer dangling issues
+      * Fixed critical bugs in a **stack-based C++14 coroutine** system, greatly enhancing performance in event processing and I/O-bound operations by optimizing concurrency for lightweight, non-blocking task execution with minimal memory usage
+      * Improved workflow efficiency by maintaining and enhancing a complex **game asset system** that leverages UUIDs, GUIDs, and file IDs to enable seamless and efficient use of diverse asset types within the engine
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 
 * [Dungeon Delivery](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko) Game Content Development
@@ -91,9 +88,9 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
     * [**Key Achivements**]
-      * Reduced development time by at least 2 weeks by developing a C# to C++ conversion tool using the Roslyn API. This tool automates the porting of Unity C# projects to custom game engines, significantly streamlining the development process.
-      * Maintained and enhanced the network client logic for "Dungeon Delivery," addressing various bugs and improving TCP/IP-based communication to enhance overall game stability and performance.
-      * Maintained secure server-client communication using the OpenSSL library, an open-source cryptographic toolkit, enhancing my understanding of network programming while ensuring the confidentiality and integrity of player data
+      * Reduced development time by at least **2 weeks** by developing a **C# to C++ conversion tool** using the **Roslyn API**. This tool automates the porting of Unity C# projects to custom game engines, significantly streamlining the development process.
+      * Maintained and enhanced the **network client logic** for "Dungeon Delivery," addressing various bugs and improving **TCP/IP-based communication** to enhance overall game stability and performance.
+      * Maintained secure server-client communication using the **OpenSSL library**, an open-source cryptographic toolkit, enhancing my understanding of network programming while ensuring the confidentiality and integrity of player data
 <br>
 
 ## *Korea Gap Year*
@@ -204,7 +201,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * 2D Adventure Game using DirectX11 Graphic API
     * IMGUI Tool System
   * [**Achievement**]
-    * Knowledge on 2D Computer Graphic using DirectX11 ex) 3D Frustum Culling, 3D Post Process Effects, Quaternion
+    * Knowledge on 2D Computer Graphic using DirectX11 ex) AABB Collision, orthographic projection
     * Experience in component-based design
     * Learnied various thread synchronization techniques such as mutexes and timers
     * Developed a wide range of game content.
@@ -279,6 +276,8 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br><br><br><br><br>
 
 # Certificates
+
+* I have proactively pursued certifications to test my limits and acquire a well-rounded skill set. Through this process, I have strengthened my computer science fundamentals and ventured into new territories, including databases, Linux, and networking, beyond my game engine programming experience
 
 ## Entry-level Linux certification (리눅스 마스터 2급)
 ![LinuxMaster](/mrawesome.github.io/Images/home/LinuxLogo.jpg "Linux"){: width="180"}
