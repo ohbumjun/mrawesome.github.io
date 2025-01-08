@@ -11,7 +11,7 @@ author_profile: true
 ![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
 # Introduce
 
-Highly motivated and results-oriented Software Engineer with 2+ years of experience in C/C++/C# programming and STL, specializing in game engine architecture and performance optimization.
+Highly motivated and results-oriented Software Engineer with **2+ years** of experience in C/C++/C# programming and STL, specializing in game engine architecture and performance optimization.
 
 ### Who I Am
 I was drawn to coding because of the process of turning imagination into reality using data and coding technology. This ability to create something from nothing has always fascinated me, and it’s this passion that led me to pursue a career in development. As I’ve gained experience, I’ve developed a particular interest in optimizing application performance and working with low-level technologies.
@@ -64,7 +64,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 ## *Com2us*
 * Seoul, Republic of Korea
 * Game Engine Programmer at Com2us Proprietary Game Engine Team
-    * January 2023 - Present
+    * January 2023 - Present (2 year)
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components.
     * [**Key Achivements**]
       * Improved and maintained a **real-time build system** using **multi-process**, similar to **Unreal Engine’s Hot Reload**, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
@@ -84,7 +84,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
 
 * [Dungeon Delivery](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko) Game Content Development
-    * January 2024 - May 2024
+    * January 2024 - May 2024 (5 month)
     * Developed "Dungeon Delivery", a game successfully launched on both Android and iOS platforms. This involved porting an existing Unity C# project to our company's proprietary C++ game engine 
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/DungeonDelivery/)
     * [**Key Achivements**]
@@ -96,7 +96,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 ## *Korea Gap Year*
 * Seoul, Republic of Korea
 * Web programming internship through a university-industry cooperation program
-    * Sep 2020 - Dec 2020
+    * Sep 2020 - Dec 2020 (4 month)
     * [**Key Achivements**]
       * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
 <br><br><br><br><br>
@@ -131,7 +131,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
   * [**Key features**] 
     * Designed Cross-Platform Architecture ex) OpenGL, DirectX11 / Window OS, Linux OS
     * [Batching System](https://www.youtube.com/watch?v=REOSbF4DIVk&list=PLkaVDtEaS2na5D2UDlYf_9OYvW7oosUrt): group multiple objects together for efficient rendering, improving performance by reducing draw calls
-    * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to 1/8 of the original, optimizing memory usage and performance.
+    * Image Compression System (DXT, ASTC): Developed a compression system for textures using DXT, ASTC formats, reducing image size by up to **1/8 of the original**, optimizing memory usage and performance.
     * [Event System](https://www.youtube.com/watch?v=21UFt31A5yg&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=41): Designed and implemented an event-driven system to handle various game and application events efficiently, enabling better communication between modules.
     * [Realtime File Detector System](https://www.youtube.com/watch?v=p2e29-bETcw&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=57): Created a system that monitors file changes in real-time, allowing for immediate updates during development without needing to restart or reload manually.
     * [Audio System using MiniAudio library](https://www.youtube.com/watch?v=RPbeZ1Sat0c&list=PLkaVDtEaS2nZ9O1_gmYLRa5xgG4ioF5-H&index=35): Integrated the <miniaudio> library for lightweight audio playback, providing high-quality sound processing with minimal system overhead.
