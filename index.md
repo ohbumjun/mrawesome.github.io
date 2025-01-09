@@ -273,7 +273,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br />
 ![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="200"}
 * I've deepened my understanding of graphics programming by developing approximately five game projects and renderers using DirectX 11 during my job search. I've had hands-on experience with advanced techniques such as geometry shaders for particle effects and instancing for optimization.
-<br><br><br><br><br>
+<br />
 
 ## Database
 ![MySQLLogo](/mrawesome.github.io/Images/home/mySQLLogo.png "MySQL"){: width="200"}
