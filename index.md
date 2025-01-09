@@ -67,10 +67,10 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * January 2023 - Present (2 year)
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components.
     * [**Key Achivements**]
-      * Improved and maintained a **real-time build system** using **multi-process**, similar to **Unreal Engine’s Hot Reload**, to reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
-      * Greatly Enhanced data handling efficiency by improving custom **parsers** and optimized **serialization** logic for various formats (JSON, YAML, Binary, CMake)
+      * Achieved a 50% reduction in user DLL loading times by resolving the redundant DLL loading issue in **real-time build system**. It is a feature inspired by **Unreal Engine’s Hot Reload** which reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
+      * Enhanced data handling efficiency by improving custom **parsers** and optimized **serialization** logic for various formats (JSON, YAML, Binary, CMake)
       * Implemented various game engine features leveraging **multithreading**, including multi-threaded updates(**JobSystem**), and **asynchronous data loading**.
-      *  Reduced memory usage by **compressing image** assets to up to **1/8th** of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with **DXT and ASTC** compression.
+      * Reduced memory usage by **compressing image** assets to up to **1/8th** of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with **DXT and ASTC** compression.
       * Achieved **2.0 GB** reduction in memory usage by optimizing **memory allocator** system using various forms of **memory pools** ex) Fixed Size, Variant Size + Red Black Tree
       * Accelerated Unity game code porting by at least **2 weeks** through **Roslyn-based C# to C++ conversion** tool
       * Improved development efficiency by improving the **C/C++ runtime reflection system** using **Clang** Compiler API
@@ -273,6 +273,15 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br />
 ![DirectX11Logo](/mrawesome.github.io/Images/home/directx11logo.png "DirectX11"){: width="200"}
 * I've deepened my understanding of graphics programming by developing approximately five game projects and renderers using DirectX 11 during my job search. I've had hands-on experience with advanced techniques such as geometry shaders for particle effects and instancing for optimization.
+<br><br><br><br><br>
+
+## Database
+![MySQLLogo](/mrawesome.github.io/Images/home/mySQLLogo.png "MySQL"){: width="200"}
+* My **"4 months [Korea Gap Year]"** internship provided me with a valuable opportunity to learn the basics of backend development using Node.js and MySQL. I successfully built a web application, gaining practical experience in database design and SQL. While I'm still developing my expertise in this area, I am excited to continue learning and applying these skills to more complex projects.
+
+<br />
+![MongoDBLogo](/mrawesome.github.io/Images/home/mongoDBLogo.png "MongoDB"){: width="200"}
+* During my web development projects, I consistently relied on MongoDB as my database solution. This hands-on experience has equipped me with a solid understanding of NoSQL databases, including MongoDB's document-oriented structure and flexible querying mechanisms. Additionally, obtaining an SQL Developer certification and completing a database course has further solidified my foundational knowledge in database management systems
 <br><br><br><br><br>
 
 # Certificates
