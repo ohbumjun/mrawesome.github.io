@@ -35,7 +35,7 @@ C/C++/C# 프로그래밍 및 STL을 활용한 2년 이상의 경력을 보유한
 
 저는 C/C++/C#을 사용한 소프트웨어 개발에 주된 관심이 있으며, 시스템 최적화 및 복잡한 기술적 문제 해결에 열정적입니다.
 게임 엔진 개발 경험을 통해 C/C++/C#, 시스템 최적화, 문제 해결 능력을 향상시켰습니다. 그래픽 API, Windows OS 기술, 네트워크 프로그래밍 등 다양한 소프트웨어 프로젝트에 이러한 전이 가능한 기술을 적용하기를 희망합니다.
-<br><br><br><br><br>
+
 
 # Education
 
@@ -62,7 +62,7 @@ C/C++/C# 프로그래밍 및 STL을 활용한 2년 이상의 경력을 보유한
 ### 스파르타 코딩 클럽 (2020.03 ~ 2020.05)
 * HTML, CSS, JS, MongoDB, Python을 사용한 웹 프로그래밍
 
-<br><br><br><br><br>
+
 
 # Career
 ## *Com2us*
@@ -105,7 +105,7 @@ C/C++/C# 프로그래밍 및 STL을 활용한 2년 이상의 경력을 보유한
     * [**Key Achivements**]
       * HTML, CSS, JavaScript, Node.js, MySQL을 활용하여 두 개의 풀스택 웹사이트를 독립적으로 개발했습니다.
       * MySQL을 사용하여 웹 백엔드 애플리케이션을 개발하면서 데이터베이스 설계 및 SQL에 대한 실무적인 능력을 습득했습니다.
-<br><br><br><br><br>
+
 
 # Personal Project
 ## C/C++ Based Projects
@@ -256,7 +256,7 @@ C/C++/C# 프로그래밍 및 STL을 활용한 2년 이상의 경력을 보유한
 HTML, SCSS, Framer-Motion, Flask, MongoDB, 파이썬으로 구축된 웹 애플리케이션으로 사용자는 장르, 시간, 요일 또는 위치별로 쉽게 댄스 클래스를 검색할 수 있습니다 : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
   * [**Achievement**]
     * 처음으로 웹 개발에 도전하여 HTML, CSS, JS, 몽고DB 등 웹 개발에 필요한 기술 전반에 대한 실력을 쌓았습니다
-<br><br><br><br><br>
+
 
 # Skills
 ## Programming Languages    
@@ -301,7 +301,7 @@ HTML, SCSS, Framer-Motion, Flask, MongoDB, 파이썬으로 구축된 웹 애플�
 ![MongoDBLogo](/mrawesome.github.io/Images/home/mongoDBLogo.png "MongoDB"){: width="200"}
 * 웹 개발 프로젝트를 진행하는 동안 데이터베이스 솔루션으로 지속적으로 MongoDB를 사용했습니다. 이러한 실습 경험을 통해 MongoDB의 문서 지향 구조와 유연한 쿼리 메커니즘을 포함한 NoSQL 데이터베이스에 대한 탄탄한 이해를 갖추게 되었습니다. 또한 SQLD 개발자 자격증을 취득하고 데이터베이스 과정을 수료함으로써 데이터베이스 관리 시스템에 대한 기초 지식을 더욱 굳건히 다졌습니다.
   
-<br><br><br><br><br>
+
 
 # Certificates
 
