@@ -1,6 +1,11 @@
 ---
-title: "데이터를 사용하여 상상력을 현실로 가져오는 개발자"
-excerpt: "오범준"
+title: "데이터를 사용하여 상상을 현실로 구현하는 개발자"
+layout: single
+excerpt: "오범준 <br><br><br>"
+header:
+  overlay_image: ../../assets/images/Dream_BackGround.jpg
+classes: wide
+author_profile: true
 categories: 
     - ProfessionalProjects
 ---
