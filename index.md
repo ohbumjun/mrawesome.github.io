@@ -8,7 +8,7 @@ classes: wide
 author_profile: true
 ---
 
-![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
+![BumJunOh_Introduction](../../Images/home/BumJunOh_Intro_Small.jpg)
 # Introduce
 
 Highly motivated and results-oriented Software Engineer with **2+ years** of experience in C/C++/C# programming and STL, specializing in game engine architecture and performance optimization.
@@ -35,7 +35,7 @@ My game engine development experience has honed my skills in C/C++/C#, system op
 
 # Education
 
-## Chung-Ang University
+### Chung-Ang University
 
 * Bachelor of Arts in **Psychology** (2022) 
 * Double-Major in **Statistical Artificial Intelligence** (2022)(GPA : 4 / 4.5)
@@ -43,25 +43,26 @@ My game engine development experience has honed my skills in C/C++/C#, system op
 Relevant Course : C Programming Language/ Calculus/ Linear Algebra/ Data Structure/ Algorithm/ Software Engineering/ Numerical Analysis/ Graphic Programming Design(OpenGL)/ Mathematical Statistics / Data Mining/ Industry Academy Cooperative Program : Web Programming (1 semester)
 <br>
 
-## Credit Bank System
+### Credit Bank System
 * Bachelor of Science in Information and Communication Engineering (2025)(GPA : 4.29 / 4.5)
 <br>
 Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating System/ Introduction to Information and Communications/ Computer Network / C Programming / System Programming / Computer Architecture
 <br>
 
-## Assort-Rock Game Acedemy (2021.07 ~ 2022.12)
+### Assort-Rock Game Acedemy (2021.07 ~ 2022.12)
 * Game Client, Engine Programming using C/C++, WinAPI, DirectX11
 
-## Purdue University IOT Summer Program (2021.07 ~ 2021.08)
+### Purdue University IOT Summer Program (2021.07 ~ 2021.08)
 * IOT Course & Team Project : Solar Panel System
 
-## Sparta Coding Club (2020.03 ~ 2020.05)
+### Sparta Coding Club (2020.03 ~ 2020.05)
 * Web Programming using HTML, CSS, JS, MongoDB, Python
 
 <br><br><br><br><br>
 
 # Career
-## *Com2us*
+
+### *Com2us*
 * Seoul, Republic of Korea
 * Game Engine Programmer at Com2us Proprietary Game Engine Team
     * January 2023 - Present (2 year)
@@ -93,7 +94,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * Maintained secure server-client communication using the **OpenSSL library**, an open-source cryptographic toolkit, enhancing my understanding of network programming while ensuring the confidentiality and integrity of player data
 <br>
 
-## *Korea Gap Year*
+### *Korea Gap Year*
 * Seoul, Republic of Korea
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020 (4 month)
@@ -103,6 +104,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br><br><br><br><br>
 
 # Personal Project
+
 ## C/C++ Based Projects
 
 ### Unreal Network MultiPlayer Project (2025.01 ~ now)
@@ -255,6 +257,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 <br><br><br><br><br>
 
 # Skills
+
 ## Programming Languages    
 ![C++Logo](/mrawesome.github.io/Images/home/C++Logo.png "C++"){: width="80"}  
 * C++ is my primary programming language. I am a professional game engine programmer and use it every day.
