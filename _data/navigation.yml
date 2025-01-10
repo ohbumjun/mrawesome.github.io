@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Korean"
-    url: /korean/KoreanResume/
+    url: /korean/KoreanResume
   - title: "English"
-    url: "https://ohbumjun.github.io/mrawesome.github.io/"
+    url: /
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
