@@ -68,7 +68,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * As a Game Engine Programmer, I design and implement core engine systems, enhancing performance and functionality across various components.
     * [**Key Achivements**]
       * Achieved a 50% reduction in user DLL loading times by resolving the redundant DLL loading issue in **real-time build system**. It is a feature inspired by **Unreal Engine’s Hot Reload** which reflect real-time changes to the client user project without restarting the application, enhancing engine user convenience.
-      * Enhanced data handling efficiency by improving custom **parsers** and optimized **serialization** logic for various formats (JSON, YAML, Binary, CMake)
+      * Achieved 10-fold increase in data processing efficiency compared to traditional JSON parsers by implementing a high-performance MessagePack parser. Developed custom parsers for various data formats ex) JSON, YAML, Binary, CMake
       * Implemented various game engine features leveraging **multithreading**, including multi-threaded updates(**JobSystem**), and **asynchronous data loading**.
       * Reduced memory usage by **compressing image** assets to up to **1/8th** of their original size. Maintained and debugged the logic for optimizing image assets for real-time rendering with **DXT and ASTC** compression.
       * Achieved **2.0 GB** reduction in memory usage by optimizing **memory allocator** system using various forms of **memory pools** ex) Fixed Size, Variant Size + Red Black Tree
