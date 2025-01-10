@@ -1,11 +1,9 @@
 ---
 title: "데이터를 사용하여 상상력을 현실로 가져오는 개발자"
-layout: single
-excerpt: "오범준 <br><br><br>"
-header:
-  overlay_image: /assets/images/Dream_BackGround.jpg
-classes: wide
-author_profile: true
+excerpt: "데이터를 사용하여 상상력을 현실로 가져오는 개발자"
+order: 2
+categories: 
+    - ProfessionalProjects
 ---
 
 ![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
