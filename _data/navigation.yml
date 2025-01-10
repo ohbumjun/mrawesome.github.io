@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Korean"
-    url: "https://ohbumjun.github.io/mrawesome.github.io/korean/KoreanResume/"
+    url: /mrawesome.github.io/korean/KoreanResume/
   - title: "English"
     url: "https://ohbumjun.github.io/mrawesome.github.io/"
   # - title: "Sample Posts"
