@@ -3,7 +3,7 @@ main:
   - title: "Korean"
     url: "https://ohbumjun.github.io/mrawesome.github.io/professionalprojects/KoreanResume/"
   - title: "English"
-  ` url: "https://ohbumjun.github.io/mrawesome.github.io/"
+    url: "https://ohbumjun.github.io/mrawesome.github.io/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
