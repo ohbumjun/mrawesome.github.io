@@ -105,8 +105,19 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 # Project
 ## C/C++ Based Projects
 
+### Unreal Network MultiPlayer Project (2025.01 ~ now)
+* Unreal Engine 5 C++ Multiplayer Shooter : [Project](https://www.youtube.com/watch?v=YzFNG3qZ52o&list=PLkaVDtEaS2nZ2dJipBBCP4Wny9vUrusGx)
+    * [**Key features**]
+      * Replication techniques for fast-paced, competitive shooter games
+      * Program multiplayer matchmaking in Unreal Engine
+      * Custom game modes, custom match states, and use of the core classes used in multiplayer
+      * Own subsystem to manage online sessions
+    * [**Achievement**]
+      * Learned how the Game Mode, Game State, Player State, Player Controller, Pawn, Character, and Actor classes work in multiplayer
+      * Deepened my understanding of computer network programming by utilizing the Unreal Network Programming API
+ 
 ### Unreal 3D TPS Project (2024.11 ~ 2024.12)
-* 3D third-party shooting game project using Unreal5 : [Project](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko&pli=1)
+* 3D third-party shooting game project using Unreal5 : [Project](https://www.youtube.com/watch?v=nZVnSdxScOw&list=PLkaVDtEaS2nYfen53nEdOUmKztDxLHWF3)
     * [**Key features**]     : 3D Shooting Game Logic using Unreal5
     * [**Achievement**]      : I was able to understand the basics of Unreal Engine 5
  
