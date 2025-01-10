@@ -99,7 +99,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Sep 2020 - Dec 2020 (4 month)
     * [**Key Achivements**]
       * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. 
-      * Gained hands-on experience with MySQL while developing the backend for user registration and project participation sign-up, which significantly improved my understanding of database design.
+      * Achieved practical proficiency in database design and SQL by developing a web-backend application using MySQL
 <br><br><br><br><br>
 
 # Project
