@@ -99,6 +99,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
     * Sep 2020 - Dec 2020 (4 month)
     * [**Key Achivements**]
       * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+      * Gained hands-on experience with MySQL while developing the backend for user registration and project participation sign-up, which significantly improved my understanding of database design.
 <br><br><br><br><br>
 
 # Project
@@ -234,6 +235,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
   * [**Achievement**]
     * Through a two-person team project, I gained my first experience in team collaboration
     * Developed a wider range of web pages using JavaScript, HTML, and CSS.
+    * Deepened my understanding of MongoDB concepts and gained hands-on experience through a project that utilized MongoDB
 
 ### Dance Academy Search Web Application (2020.03 ~ 2020.05)
 * A web application built with HTML, SCSS, Framer-Motion, Flask, MongoDB, and Python, enabling users to easily search for dance classes by genre, time, day, or location. : [Project](https://www.youtube.com/watch?v=cfraS136kiE&list=PLkaVDtEaS2nZ43TM90uL3bsc2P5bG22tL&index=4)
