@@ -102,7 +102,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * Achieved practical proficiency in database design and SQL by developing a web-backend application using MySQL
 <br><br><br><br><br>
 
-# Project
+# Personal Project
 ## C/C++ Based Projects
 
 ### Unreal Network MultiPlayer Project (2025.01 ~ now)
