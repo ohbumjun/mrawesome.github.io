@@ -98,7 +98,7 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
 * Web programming internship through a university-industry cooperation program
     * Sep 2020 - Dec 2020 (4 month)
     * [**Key Achivements**]
-      * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. Responsibilities included front-end development, back-end development for user registration and project participation sign-up, and database management.
+      * Independently developed two full-stack websites from scratch, utilizing HTML, CSS, JavaScript, Node.js, and MySQL. 
       * Gained hands-on experience with MySQL while developing the backend for user registration and project participation sign-up, which significantly improved my understanding of database design.
 <br><br><br><br><br>
 
