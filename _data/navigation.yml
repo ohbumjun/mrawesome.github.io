@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Korean"
+    url: "https://ohbumjun.github.io/mrawesome.github.io/professionalprojects/KoreanResume/"
+  - title: "English"
+  ` url: "https://ohbumjun.github.io/mrawesome.github.io/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
