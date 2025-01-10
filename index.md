@@ -82,7 +82,6 @@ Relevant Course : Network 1/ Database/ System Analysis and Design/ Operating Sys
       * Fixed critical bugs in a **stack-based C++14 coroutine** system, greatly enhancing performance in event processing and I/O-bound operations by optimizing concurrency for lightweight, non-blocking task execution with minimal memory usage
       * Improved workflow efficiency by maintaining and enhancing a complex **game asset system** that leverages UUIDs, GUIDs, and file IDs to enable seamless and efficient use of diverse asset types within the engine
     * For more details about my work, feel free to reach out! [this post](/mrawesome.github.io/professionalprojects/Com2usKorea/)
-    * For more details about my work, aaafeel free to reach out! [this post](/mrawesome.github.io/professionalprojects/KoreanResume/)
 
 * [Dungeon Delivery](https://play.google.com/store/apps/details?id=com.com2us.ddelivery.normal.freefull.google.global.android.common&hl=ko) Game Content Development
     * January 2024 - May 2024 (5 month)
