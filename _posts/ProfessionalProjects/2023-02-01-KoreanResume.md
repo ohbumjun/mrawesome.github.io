@@ -1,7 +1,6 @@
 ---
 title: "데이터를 사용하여 상상력을 현실로 가져오는 개발자"
 excerpt: "오범준"
-order: 2
 categories: 
     - ProfessionalProjects
 ---
