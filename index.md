@@ -8,7 +8,7 @@ classes: wide
 author_profile: true
 ---
 
-![BumJunOh_Introduction](../../Images/home/BumJunOh_Intro_Small.jpg)
+![BumJunOh_Introduction](/Images/home/BumJunOh_Intro_Small.jpg)
 # Introduce
 
 Highly motivated and results-oriented Software Engineer with **2+ years** of experience in C/C++/C# programming and STL, specializing in game engine architecture and performance optimization.
